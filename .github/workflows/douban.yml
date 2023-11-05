@@ -27,7 +27,15 @@ jobs:
         type: music
         format: csv
         dir: ./
-  
+
+    - name: book
+      uses: lizheming/doumark-action@master
+      with:
+        id: 269131915
+        type: book
+        format: csv
+        dir: ./
+        
     - name: Commit
       uses: EndBug/add-and-commit@v8
       with:
