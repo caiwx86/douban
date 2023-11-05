@@ -18,7 +18,7 @@ jobs:
         id: 269131915
         type: movie
         format: csv
-        dir: ./douban
+        dir: ./
 
     - name: music
       uses: lizheming/doumark-action@master
@@ -26,10 +26,10 @@ jobs:
         id: 269131915
         type: music
         format: csv
-        dir: ./douban
+        dir: ./
   
     - name: Commit
       uses: EndBug/add-and-commit@v8
       with:
         message: 'chore: update douban data'
-        add: './douban'
+        add: './'
