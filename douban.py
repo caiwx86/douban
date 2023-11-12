@@ -9,14 +9,15 @@ save_folder = './images/douban/'
 
 # 如果是 Json 文件使用下面这一行
 json_file_path = './data/douban/movie.json'
+json_book_path = './data/douban/book.json'
 # json_file_path = ''
 
 # 如果是 CSV 文件使用下面这一行
 # csv_movie_path = './data/douban/movie.csv'
 csv_movie_path= ''
 # 这里是book的csv路径
-csv_book_path = './douban/book.csv'
-# csv_book_path= ''
+# csv_book_path = './douban/book.csv'
+csv_book_path= ''
 
 def dowoloadFile(image_url):
   # 确保文件夹路径存在
@@ -67,7 +68,15 @@ else:
   print('。。。。。。。跳过电影图片下载')
 
 data_book = []
-if(csv_book_path):
+if(json_book_path):
+  print('我是Book Json文件，开始执行。。。。。')
+  with open(json_book_path, 'r', encoding='utf-8') as file:
+    data_json = json.load(file)
+  # 提取URL字段的值
+  for i in data_json:
+    image_url = i['subject']['cover_url']
+    dowoloadFile(image_url)
+elif(csv_book_path):
   print('我是Book CSV文件，开始执行。。。。。')
   with open(csv_book_path, 'r', encoding='utf-8') as books:
     csv_books = csv.reader(books)
