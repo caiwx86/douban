@@ -4,6 +4,89 @@
 		"rating": {
 			"count": 1,
 			"max": 5,
+			"star_count": 5,
+			"value": 5
+		},
+		"sharing_text": "我的评分：★★★★★ https://book.douban.com/subject/26461263/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/26461263/interest/3996927723",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2023-11-20 19:54:46",
+		"status": "done",
+		"id": 3996927723,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 52,
+				"max": 10,
+				"star_count": 4,
+				"value": 8.4
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2007-10-1"
+			],
+			"pic": {
+				"large": "https://img1.doubanio.com/view/subject/l/public/s28258998.jpg",
+				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s28258998.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
+			},
+			"honor_infos": [],
+			"other_versions_count": 0,
+			"is_show": false,
+			"vendor_icons": [],
+			"card_subtitle": "轩弦 / 2007 / 内蒙古人民出版社",
+			"book_subtitle": "",
+			"id": "26461263",
+			"author": [
+				"轩弦"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "a5a59b",
+				"_base_color": [
+					0.16666666666666666,
+					0.060606060606060705,
+					0.12941176470588237
+				],
+				"secondary_color": "f9f9f4",
+				"_avg_color": [
+					0.5897435897435898,
+					0.06632653061224494,
+					0.7686274509803922
+				],
+				"primary_color_dark": "7f7f77"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/26461263.jpg",
+			"min_sale_price": null,
+			"press": [
+				"内蒙古人民出版社"
+			],
+			"pages": [
+				"300"
+			],
+			"sharing_url": "https://book.douban.com/subject/26461263/",
+			"url": "https://book.douban.com/subject/26461263/",
+			"title": "我的完美女友何雨晴",
+			"uri": "douban://douban.com/book/26461263",
+			"subtype": "book",
+			"intro": "如果你的女朋友有着美丽的容貌、雪白的肌肤和姣好的身材……\n如果你的女朋友冰雪聪明、温柔体贴、不乱花钱、对你的照顾无微不至……\n如果你的女朋友除你以外不曾爱过其他男人，对你一心一意、死心塌地……\nStop！这世界会有这样完美的女朋友吗？\n或者你不相信，但我的女友真的如此完美。\n然而在完美背后，却隐藏着一个我所无法接受的大秘密……",
+			"buy_more_uri": "",
+			"null_rating_reason": "",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": false
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
 			"star_count": 4,
 			"value": 4
 		},
@@ -19,7 +102,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 81632,
+				"count": 81634,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -115,7 +198,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4849,
+				"count": 4851,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -281,7 +364,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 64407,
+				"count": 64416,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -374,7 +457,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 87700,
+				"count": 87704,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -466,7 +549,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 806127,
+				"count": 806156,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -559,7 +642,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 11598,
+				"count": 11599,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -648,7 +731,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 90793,
+				"count": 90807,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
