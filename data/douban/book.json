@@ -7,6 +7,89 @@
 			"star_count": 5,
 			"value": 5
 		},
+		"sharing_text": "我的评分：★★★★★ https://book.douban.com/subject/26877099/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/26877099/interest/3999277800",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2023-11-23 00:02:28",
+		"status": "done",
+		"id": 3999277800,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 475,
+				"max": 10,
+				"star_count": 4.5,
+				"value": 9.1
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2016-8-2"
+			],
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/l/public/s29051104.jpg",
+				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s29051104.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
+			},
+			"honor_infos": [],
+			"other_versions_count": 0,
+			"is_show": false,
+			"vendor_icons": [],
+			"card_subtitle": "汪曾祺 / 2016 / 作家出版社",
+			"book_subtitle": "汪曾祺后人监制，全新修订精装典藏纪念版",
+			"id": "26877099",
+			"author": [
+				"汪曾祺"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": false,
+				"primary_color_light": "f2f2eb",
+				"_base_color": [
+					0.16666666666666666,
+					0.028225806451612916,
+					0.9725490196078431
+				],
+				"secondary_color": "f9f9f4",
+				"_avg_color": [
+					0.05855855855855859,
+					0.1548117154811716,
+					0.9372549019607843
+				],
+				"primary_color_dark": "f2f2eb"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/26877099.jpg",
+			"min_sale_price": null,
+			"press": [
+				"作家出版社"
+			],
+			"pages": [
+				"400"
+			],
+			"sharing_url": "https://book.douban.com/subject/26877099/",
+			"url": "https://book.douban.com/subject/26877099/",
+			"title": "受戒",
+			"uri": "douban://douban.com/book/26877099",
+			"subtype": "book",
+			"intro": "汪曾祺饱含诗情的极美小说，以诗意的文字，讲述诗意的爱情。\n《受戒》源于汪曾祺几十年前的一个梦，在一个充满诗意的水乡里，一个小和尚和一个小女孩儿之间产生了懵懂的爱情，在这世外桃源般的乡间，自然随意就是至纯至美。\n《受戒》像笼着轻纱的梦境，处处洋溢着世俗匪夷所思的欢乐，清新秀丽中饱含诗性美和音乐美，散发出淳朴的人性的光芒。汪曾祺以一人之力，续接了自鲁迅至沈从文的“乡土”文脉，此小说一经发表，在文坛中引起强烈震动。\n《受戒》为汪曾祺的小说精选集，囊括《受戒》《王四海的黄昏》《故里三陈》等汪氏小说代表作。",
+			"buy_more_uri": "",
+			"null_rating_reason": "",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": false
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 5,
+			"value": 5
+		},
 		"sharing_text": "我的评分：★★★★★ https://book.douban.com/subject/26461263/ 来自@豆瓣App",
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/26461263/interest/3996927723",
 		"tags": [],
@@ -102,7 +185,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 81666,
+				"count": 81668,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -281,7 +364,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 69109,
+				"count": 69112,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7
@@ -364,7 +447,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 64513,
+				"count": 64530,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -457,7 +540,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 87741,
+				"count": 87746,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -549,7 +632,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 806448,
+				"count": 806475,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -731,7 +814,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 90957,
+				"count": 90967,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
