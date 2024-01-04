@@ -185,7 +185,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 82521,
+				"count": 82531,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -210,7 +210,6 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/6bd2847c065ab16da2b96d1660ea25c4ea017cb9/pics/vendors/logo_xmly.png",
-				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
 				"https://img2.doubanio.com/f/frodo/eeb8f37f5296ae1fbb944718bd5d6880d24aab5c/pics/vendors/migu_book_logo.png",
 				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
@@ -281,7 +280,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5063,
+				"count": 5066,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -364,7 +363,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 69698,
+				"count": 69702,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7
@@ -454,7 +453,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 66753,
+				"count": 66764,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -547,7 +546,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 88743,
+				"count": 88755,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -570,9 +569,7 @@
 			],
 			"other_versions_count": 3,
 			"is_show": false,
-			"vendor_icons": [
-				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg"
-			],
+			"vendor_icons": [],
 			"card_subtitle": "麦家 / 2019 / 北京十月文艺出版社",
 			"book_subtitle": "",
 			"id": "30475767",
@@ -616,7 +613,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": true
+			"has_ebook": false
 		}
 	},
 	{
@@ -639,7 +636,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 813343,
+				"count": 813388,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -732,7 +729,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 11867,
+				"count": 11870,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -750,7 +747,6 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/6bd2847c065ab16da2b96d1660ea25c4ea017cb9/pics/vendors/logo_xmly.png",
-				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
 				"https://img2.doubanio.com/f/frodo/eeb8f37f5296ae1fbb944718bd5d6880d24aab5c/pics/vendors/migu_book_logo.png",
 				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
@@ -821,7 +817,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 94659,
+				"count": 94699,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -846,7 +842,6 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/6bd2847c065ab16da2b96d1660ea25c4ea017cb9/pics/vendors/logo_xmly.png",
-				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
 				"https://img2.doubanio.com/f/frodo/eeb8f37f5296ae1fbb944718bd5d6880d24aab5c/pics/vendors/migu_book_logo.png",
 				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
