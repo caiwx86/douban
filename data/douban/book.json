@@ -185,7 +185,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 83772,
+				"count": 83776,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -363,7 +363,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 70319,
+				"count": 70320,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7
@@ -453,7 +453,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 69521,
+				"count": 69529,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -546,7 +546,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 90173,
+				"count": 90178,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -636,7 +636,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 822331,
+				"count": 822353,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -646,8 +646,8 @@
 				"2012-8"
 			],
 			"pic": {
-				"large": "https://img1.doubanio.com/view/subject/l/public/s29053580.jpg",
-				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s29053580.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
+				"large": "https://img9.doubanio.com/view/subject/l/public/s29869926.jpg",
+				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s29869926.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
 			},
 			"honor_infos": [
 				{
@@ -673,19 +673,19 @@
 			"vendor_original_price": "",
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "725b72",
+				"primary_color_light": "727272",
 				"_base_color": [
-					0.8333333333333334,
-					0.2,
-					0.0196078431372549
+					0,
+					0,
+					0.01568627450980392
 				],
-				"secondary_color": "f9f4f9",
+				"secondary_color": "f9f4f4",
 				"_avg_color": [
 					0,
-					0.125,
-					0.03137254901960784
+					0.25,
+					0.01568627450980392
 				],
-				"primary_color_dark": "4c3d4c"
+				"primary_color_dark": "4c4c4c"
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/4913064.jpg",
@@ -729,7 +729,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 12190,
+				"count": 12191,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -817,7 +817,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 100704,
+				"count": 100720,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
