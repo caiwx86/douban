@@ -37,14 +37,7 @@ def dowoloadFile(image_url):
   file_name = image_url.split('/')[-1]
   save_path = os.path.join(save_folder, file_name)
   if os.path.exists(save_path):
-    try:
-        Image.open(save_path).verify()
-        print(f"{save_path} is a valid image")
-        return True
-    except (FileNotFoundError, SyntaxError):
-        print(f"{save_path} is not a valid image")
-        os.remove(save_path)
-        return False
+    check_image(save_path)
     print(f'文件已存在 {file_name}')
   else:
     print('文件不存在')
@@ -52,6 +45,15 @@ def dowoloadFile(image_url):
       file.write(response.content)
     print(f'图片已保存为 {file_name}')
 
+def check_image(image_path):
+    try:
+        Image.open(image_path).verify()
+        print(f"{image_path} is a valid image")
+        return True
+    except (FileNotFoundError, SyntaxError):
+        print(f"{image_path} is not a valid image")
+        os.remove(image_path)
+        return False
 
 if(json_file_path):
   print('我是Movies Json文件，开始执行。。。。。')
