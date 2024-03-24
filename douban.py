@@ -49,12 +49,11 @@ def check_image(image_path):
     try:
         Image.open(image_path).verify()
         print(f"{image_path} is a valid image")
-        # return True
+        return True
     except:
-    # except (FileNotFoundError, SyntaxError):
         print(f"{image_path} is not a valid image")
         os.remove(image_path)
-        # return False
+        return False
 
 if(json_file_path):
   print('我是Movies Json文件，开始执行。。。。。')
