@@ -35,6 +35,14 @@ def dowoloadFile(image_url):
   file_name = image_url.split('/')[-1]
   save_path = os.path.join(save_folder, file_name)
   if os.path.exists(save_path):
+    try:
+        Image.open(save_path).verify()
+        print(f"{save_path} is a valid image")
+        return True
+    except (FileNotFoundError, SyntaxError):
+        print(f"{save_path} is not a valid image")
+        os.remove(save_path)
+        return False
     print(f'文件已存在 {file_name}')
   else:
     print('文件不存在')
