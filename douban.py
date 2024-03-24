@@ -2,6 +2,8 @@ import requests
 import json
 import os
 import csv
+from PIL import Image
+
 save_folder = './images/douban/'
 
 # Json 和 CSV 文件和.github\workflows\douban.yml保持一致
