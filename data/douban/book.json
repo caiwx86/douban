@@ -185,7 +185,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 84440,
+				"count": 84441,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -363,7 +363,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 70636,
+				"count": 70637,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7
@@ -477,7 +477,8 @@
 			"other_versions_count": 14,
 			"is_show": false,
 			"vendor_icons": [
-				"https://img2.doubanio.com/f/frodo/6bd2847c065ab16da2b96d1660ea25c4ea017cb9/pics/vendors/logo_xmly.png"
+				"https://img2.doubanio.com/f/frodo/6bd2847c065ab16da2b96d1660ea25c4ea017cb9/pics/vendors/logo_xmly.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "余华 / 2012 / 作家出版社",
 			"book_subtitle": "",
@@ -635,7 +636,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 826965,
+				"count": 826976,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -816,7 +817,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 103791,
+				"count": 103797,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
