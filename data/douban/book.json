@@ -185,7 +185,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 84990,
+				"count": 84999,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -210,8 +210,9 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/6bd2847c065ab16da2b96d1660ea25c4ea017cb9/pics/vendors/logo_xmly.png",
-				"https://img2.doubanio.com/f/frodo/eeb8f37f5296ae1fbb944718bd5d6880d24aab5c/pics/vendors/migu_book_logo.png",
+				"https://img2.doubanio.com/f/frodo/af225732b19d0a4c9c6a5e4430cf3fbba2859b43/pics/vendors/migu_book_logo.png",
 				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png",
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "张嘉佳 / 2018 / 湖南文艺出版社",
@@ -280,7 +281,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5586,
+				"count": 5590,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -296,7 +297,9 @@
 			"honor_infos": [],
 			"other_versions_count": 33,
 			"is_show": false,
-			"vendor_icons": [],
+			"vendor_icons": [
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
+			],
 			"card_subtitle": "路遥 / 2021 / 北京十月文艺出版社",
 			"book_subtitle": "",
 			"id": "35493439",
@@ -340,7 +343,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": false
+			"has_ebook": true
 		}
 	},
 	{
@@ -363,7 +366,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 70900,
+				"count": 70906,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7
@@ -386,7 +389,9 @@
 			],
 			"other_versions_count": 8,
 			"is_show": false,
-			"vendor_icons": [],
+			"vendor_icons": [
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
+			],
 			"card_subtitle": "余华 / 2013 / 新星出版社",
 			"book_subtitle": "",
 			"id": "24540864",
@@ -430,7 +435,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": false
+			"has_ebook": true
 		}
 	},
 	{
@@ -453,7 +458,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 72107,
+				"count": 72131,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -478,6 +483,7 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/6bd2847c065ab16da2b96d1660ea25c4ea017cb9/pics/vendors/logo_xmly.png",
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png",
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "余华 / 2012 / 作家出版社",
@@ -546,7 +552,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 91465,
+				"count": 91472,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -569,7 +575,9 @@
 			],
 			"other_versions_count": 3,
 			"is_show": false,
-			"vendor_icons": [],
+			"vendor_icons": [
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
+			],
 			"card_subtitle": "麦家 / 2019 / 北京十月文艺出版社",
 			"book_subtitle": "",
 			"id": "30475767",
@@ -613,7 +621,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": false
+			"has_ebook": true
 		}
 	},
 	{
@@ -636,7 +644,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 830752,
+				"count": 830838,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -661,6 +669,7 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/6bd2847c065ab16da2b96d1660ea25c4ea017cb9/pics/vendors/logo_xmly.png",
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png",
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "余华 / 2012 / 作家出版社",
@@ -729,7 +738,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 12533,
+				"count": 12536,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -747,7 +756,7 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/6bd2847c065ab16da2b96d1660ea25c4ea017cb9/pics/vendors/logo_xmly.png",
-				"https://img2.doubanio.com/f/frodo/eeb8f37f5296ae1fbb944718bd5d6880d24aab5c/pics/vendors/migu_book_logo.png",
+				"https://img2.doubanio.com/f/frodo/af225732b19d0a4c9c6a5e4430cf3fbba2859b43/pics/vendors/migu_book_logo.png",
 				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
@@ -817,7 +826,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 106211,
+				"count": 106270,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -842,7 +851,7 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/6bd2847c065ab16da2b96d1660ea25c4ea017cb9/pics/vendors/logo_xmly.png",
-				"https://img2.doubanio.com/f/frodo/eeb8f37f5296ae1fbb944718bd5d6880d24aab5c/pics/vendors/migu_book_logo.png",
+				"https://img2.doubanio.com/f/frodo/af225732b19d0a4c9c6a5e4430cf3fbba2859b43/pics/vendors/migu_book_logo.png",
 				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
