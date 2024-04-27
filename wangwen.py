@@ -34,7 +34,8 @@ def domain_wxread(url, parse_html):
 def domain_fanqienovel(url, parse_html):
     title  = parse_html.xpath('//div[@class="info-name"]/h1/text()')[0]
     author = parse_html.xpath('//span[@class="author-name-text"]/text()')[0]
-    icon   = parse_html.xpath('//div[@class="book-cover"]/img/@src')[0]
+    icon   = parse_html.xpath('//script/text()')[0]
+    icon   = json.loads(icon.replace("\n", "").replace(" ", "")).get("image")[0]
     desp   = parse_html.xpath('//div[@class="page-abstract-content"]/p/text()')[0]
     return to_string(url=url, title=title, author=author, icon=icon, desp=desp)
 
