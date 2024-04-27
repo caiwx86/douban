@@ -21,7 +21,14 @@ csv_movie_path= ''
 # csv_book_path = './douban/book.csv'
 csv_book_path= ''
 
-def dowoloadFile(image_url):
+def download_image_by_json(json_item):
+  for i in json_item: 
+    image_url = i['subject']['pic']['large']
+    # id.jpg
+    file_name = i['subject']['id']+'.'+image_url.split('.')[-1] 
+    dowoload_file(image_url, file_name) 
+  
+def dowoload_file(image_url, file_name):
   # 确保文件夹路径存在
   os.makedirs(save_folder, exist_ok=True)
   if image_url.startswith("https://") and "koobai.com" in image_url:
@@ -34,7 +41,7 @@ def dowoloadFile(image_url):
     'Referer': 'https://doubanio.com'
     }
   response = requests.get(image_url, headers=headers, timeout=30)
-  file_name = image_url.split('/')[-1]
+  #file_name = image_url.split('/')[-1]
   save_path = os.path.join(save_folder, file_name)
   if os.path.exists(save_path):
     check_image(save_path)
@@ -60,9 +67,7 @@ if(json_file_path):
   with open(json_file_path, 'r', encoding='utf-8') as file:
     data_json = json.load(file)
   # 提取URL字段的值
-  for i in data_json:
-    image_url = i['subject']['cover_url']
-    dowoloadFile(image_url)
+    download_image_by_json(data_json)
 elif(csv_movie_path):
   print('我是Movies CSV文件，开始执行。。。。。')
   data_csv = []  # 存储数据的列表
@@ -75,7 +80,7 @@ elif(csv_movie_path):
   for row in data_csv:
     image_url = row[3]
     # print(image_url)
-    dowoloadFile(image_url)
+    dowoload_file(image_url,'0')
 else:
   print('。。。。。。。跳过电影图片下载')
 
@@ -85,9 +90,7 @@ if(json_book_path):
   with open(json_book_path, 'r', encoding='utf-8') as file:
     data_json = json.load(file)
   # 提取URL字段的值
-  for i in data_json:
-    image_url = i['subject']['cover_url']
-    dowoloadFile(image_url)
+    download_image_by_json(data_json)
 elif(csv_book_path):
   print('我是Book CSV文件，开始执行。。。。。')
   with open(csv_book_path, 'r', encoding='utf-8') as books:
@@ -98,7 +101,7 @@ elif(csv_book_path):
     # 打印数据
     for row_book in data_book:
       image_book_url = row_book[3]
-      dowoloadFile(image_book_url)
+      dowoload_file(image_book_url,'0')
 else:
   print('。。。。。。。跳过书籍图片下载')
     
