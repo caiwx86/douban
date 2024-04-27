@@ -1,17 +1,15 @@
-import requests
-import json
-import os
-import csv
+import requests,sys,json,os,csv
 from PIL import Image
 
-save_folder = './images/douban/'
+categorize = sys.argv[1]
+save_folder = './images/'+categorize+'/'
 
 # Json 和 CSV 文件和.github\workflows\douban.yml保持一致
 # 只能二选一，不用的那个留空，否则会报错
 
 # 如果是 Json 文件使用下面这一行
-json_file_path = './data/douban/movie.json'
-json_book_path = './data/douban/book.json'
+json_file_path = './data/'+categorize+'/movie.json'
+json_book_path = './data/'+categorize+'/book.json'
 # json_file_path = ''
 
 # 如果是 CSV 文件使用下面这一行
@@ -21,6 +19,10 @@ csv_movie_path= ''
 # csv_book_path = './douban/book.csv'
 csv_book_path= ''
 
+def exists(path):
+  if path == '': return False
+  return os.path.exists(path)
+  
 def download_image_by_json(json_item):
   for i in json_item: 
     image_url = i['subject']['pic']['large']
@@ -72,13 +74,13 @@ def check_image(image_path):
   else:
     return False
 
-if(json_file_path):
+if(exists(json_file_path)):
   print('我是Movies Json文件，开始执行。。。。。')
   with open(json_file_path, 'r', encoding='utf-8') as file:
     data_json = json.load(file)
   # 提取URL字段的值
     download_image_by_json(data_json)
-elif(csv_movie_path):
+elif(exists(csv_movie_path)):
   print('我是Movies CSV文件，开始执行。。。。。')
   data_csv = []  # 存储数据的列表
   with open(csv_movie_path, 'r', encoding='utf-8') as file:
@@ -92,13 +94,13 @@ else:
   print('。。。。。。。跳过电影图片下载')
 
 data_book = []
-if(json_book_path):
+if(exists(json_book_path)):
   print('我是Book Json文件，开始执行。。。。。')
   with open(json_book_path, 'r', encoding='utf-8') as file:
     data_json = json.load(file)
   # 提取URL字段的值
     download_image_by_json(data_json)
-elif(csv_book_path):
+elif(exists(csv_book_path)):
   print('我是Book CSV文件，开始执行。。。。。')
   with open(csv_book_path, 'r', encoding='utf-8') as books:
     csv_books = csv.reader(books)

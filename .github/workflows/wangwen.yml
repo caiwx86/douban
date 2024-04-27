@@ -28,7 +28,7 @@ jobs:
 
       - name: Run Python Script
         run: |
-          python wangwen_setup.py # 替换为你的 Python 脚本文件名
+          python wangwen.py # 替换为你的 Python 脚本文件名
       
       - name: Commit
         uses: EndBug/add-and-commit@v9
@@ -38,7 +38,7 @@ jobs:
 
       - name: Run Python Script
         run: |
-            python wangwen.py # 替换为你的 Python 脚本文件名
+            python download_images.py wangwen # 替换为你的 Python 脚本文件名
   
       - name: Commit
         uses: EndBug/add-and-commit@v9

@@ -30,7 +30,7 @@ jobs:
 
       - name: Run Python Script
         run: |
-          python douban.py # 替换为你的 Python 脚本文件名
+          python download_images.py douban # 替换为你的 Python 脚本文件名
           ls images/douban
 
       - name: Commit

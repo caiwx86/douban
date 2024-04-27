@@ -1,111 +1,62 @@
+# -*- coding: utf-8 -*-
 import requests
-import json
-import os
-import csv
-from PIL import Image
+from lxml import html
+import json,os
 
-save_folder = './images/wangwen/'
+def parse_urls():
+    res = requests.get("https://www.caiwenxiu.cn/wangwen.txt")
+    res.encoding = res.apparent_encoding
+    data = []
+    for url in res.text.split("\n"):
+        if url.startswith("#"): continue
+        html_data = requests.get(url).text
+        parse_html = html.fromstring(html_data)
+        # 纵横中文网
+        if url.startswith("https://www.zongheng.com"):
+            data.append(domain_zongheng(url, parse_html))
+        if url.startswith("https://weread.qq.com"):
+            data.append(domain_wxread(url, parse_html))
+    return data
 
-# Json 和 CSV 文件和.github\workflows\wangwen.yml保持一致
-# 只能二选一，不用的那个留空，否则会报错
+def domain_wxread(url, parse_html):
+    title = parse_html.xpath('//h2[@class="bookInfo_right_header_title_text"]/text()')[0]
+    author = parse_html.xpath('//div[@class="bookInfo_author_container"]/a/text()')[0]
+    icon = parse_html.xpath('//div[@class="wr_bookCover bookInfo_cover"]/img/@src')[0]
+#    desp = parse_html.xpath('//div[@class="bookInfo_intro"]/text()')
+    desp = parse_html.xpath('//meta[@name="description"]/@content')[0]
+    return to_string(url=url, title=title, author=author, icon=icon, desp=desp)
 
-# 如果是 Json 文件使用下面这一行
-json_file_path = ""
-#json_file_path = './data/wangwen/movie.json'
-json_book_path = './data/wangwen/book.json'
-# json_file_path = ''
-
-# 如果是 CSV 文件使用下面这一行
-# csv_movie_path = './data/wangwen/movie.csv'
-csv_movie_path= ''
-# 这里是book的csv路径
-# csv_book_path = './wangwen/book.csv'
-csv_book_path= ''
-
-def download_image_by_json(json_item):
-  for i in json_item: 
-    image_url = i['subject']['pic']['large']
-    # id.jpg
-    file_name = i['subject']['id']+'.jpg'
-    dowoload_file(image_url, file_name) 
-
-def download_image_by_csv(data_csv):
-  for row in data_csv:
-    image_url = row[3]
-    file_name = row[0]+'.jpg'
-    dowoload_file(image_url, file_name) 
-  
-def dowoload_file(image_url, file_name):
-  # 确保文件夹路径存在
-  os.makedirs(save_folder, exist_ok=True)
-  if image_url.startswith("https://") and "koobai.com" in image_url:
-    # 请求头
-    headers = {
-    'Referer': 'https://koobai.com'
-    } 
-  else:
-    headers = {
-    'Referer': 'https://wangwenio.com'
-    }
-  response = requests.get(image_url, headers=headers, timeout=30)
-  #file_name = image_url.split('/')[-1]
-  save_path = os.path.join(save_folder, file_name)
-  if check_image(save_path):
-    print(f'文件已存在 {file_name}')
-  else:
-    print('文件不存在')
-    with open(save_path, 'wb') as file:
-      file.write(response.content)
-    print(f'图片已保存为 {file_name}')
-
-def check_image(image_path):
-  if os.path.exists(image_path):
-    try:
-        Image.open(image_path).verify()
-        print(f"{image_path} is a valid image")
-        return True
-    except:
-        print(f"{image_path} is not a valid image")
-        os.remove(image_path)
-        return False
-  else:
-    return False
-
-if(json_file_path):
-  print('我是Movies Json文件，开始执行。。。。。')
-  with open(json_file_path, 'r', encoding='utf-8') as file:
-    data_json = json.load(file)
-  # 提取URL字段的值
-    download_image_by_json(data_json)
-elif(csv_movie_path):
-  print('我是Movies CSV文件，开始执行。。。。。')
-  data_csv = []  # 存储数据的列表
-  with open(csv_movie_path, 'r', encoding='utf-8') as file:
-        csv_reader = csv.reader(file)  # 创建 CSV 读取器对象
-        next(csv_reader)  # 跳过标题行
-        for row in csv_reader:  # 逐行读取数据
-            data_csv.append(row)  # 将每行数据添加到列表中
-    # 打印数据
-  download_image_by_csv(data_csv)
-else:
-  print('。。。。。。。跳过电影图片下载')
-
-data_book = []
-if(json_book_path):
-  print('我是Book Json文件，开始执行。。。。。')
-  with open(json_book_path, 'r', encoding='utf-8') as file:
-    data_json = json.load(file)
-  # 提取URL字段的值
-    download_image_by_json(data_json)
-elif(csv_book_path):
-  print('我是Book CSV文件，开始执行。。。。。')
-  with open(csv_book_path, 'r', encoding='utf-8') as books:
-    csv_books = csv.reader(books)
-    next(csv_books)
-    for book in csv_books:  # 逐行读取数据
-      data_book.append(book)
-    # 打印数据
-    download_image_by_csv(data_book)
-else:
-  print('。。。。。。。跳过书籍图片下载')
+def domain_zongheng(url, parse_html):
+    # 纵横中文网
+    title = parse_html.xpath('//div[@class="book-info--title"]/span/text()')[0]
+    author = parse_html.xpath('//div[@class="author-info--name"]/text()')[0].replace("\n", "")
+    icon = parse_html.xpath('//div[contains(@class,"book-info--coverImage-cover")]/img/@src')[0]
+    script = parse_html.xpath('//script/text()')[0].replace("window.__NUXT__=(function(a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u){return", "")
+    begin_index = script.index("description")+12
+    end_index = script.index("totalWords")-1
+    desp = script[begin_index+1:end_index-1].replace("\\u003Cbr\\u003E", "")
+    return to_string(url=url, title=title, author=author, icon=icon, desp=desp)
+       
+def to_string(url, title, icon,author, desp):
+    title = title.replace(" ", "")
+    author = author.replace(" ", "")
+    return {
+        "subject": 
+            {
+            "pic":{ "large" : icon},
+            "id" : title+"_"+author,
+            "url": url,
+            "title" : title,
+            "author": [author],
+            "intro"  : desp
+            }   
+        }
     
+def save_file():
+    file = "data/wangwen/books.json"
+    if not os.path.exists(os.path.dirname(file)):
+        os.makedirs(os.path.dirname(file))
+    with open("data/wangwen/book.json","w") as fs:
+        json.dump(parse_urls(), fs, indent=4, ensure_ascii=False)
+
+save_file()
