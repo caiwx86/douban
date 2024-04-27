@@ -6,11 +6,11 @@ urls = []
 def parse_urls():
     with open("wangwen.txt", "r") as fs:
        urls = fs.readlines()
+    data = []
     for url in urls:
-        if not url.startswith("http"): return
+        if not url.startswith("http"): continue
         html_data = requests.get(url).text
         parse_html = html.fromstring(html_data)
-
         # 纵横中文网
         id= url.split("/")[-1]
         title = parse_html.xpath('//div[@class="book-info--title"]/span/text()')[0]
@@ -21,8 +21,8 @@ def parse_urls():
         begin_index = script.index("description")+12
         end_index = script.index("totalWords")-1
         desp = script[begin_index:end_index]
-
-        return [{
+    
+    data.append({
         "subject": 
             {
             "pic":{ "large" : icon},
@@ -31,7 +31,8 @@ def parse_urls():
             "author": [author],
             "intro"  : desp
             }   
-        }]
+        })
+    return data
 
 def save_file():
     file = "data/wangwen/books.json"
