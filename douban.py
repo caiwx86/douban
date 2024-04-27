@@ -27,7 +27,13 @@ def download_image_by_json(json_item):
     # id.jpg
     file_name = i['subject']['id']+'.'+image_url.split('.')[-1] 
     dowoload_file(image_url, file_name) 
- 
+
+def download_image_by_csv(data_csv):
+  for row in data_csv:
+    image_url = row[3]
+    file_name = row[0]+'.'+image_url.split(".")[-1]
+    dowoload_file(image_url, file_name) 
+  
 def dowoload_file(image_url, file_name):
   # 确保文件夹路径存在
   os.makedirs(save_folder, exist_ok=True)
@@ -79,10 +85,7 @@ elif(csv_movie_path):
         for row in csv_reader:  # 逐行读取数据
             data_csv.append(row)  # 将每行数据添加到列表中
     # 打印数据
-  for row in data_csv:
-    image_url = row[3]
-    # print(image_url)
-    dowoload_file(image_url,'0')
+  download_image_by_csv(data_csv)
 else:
   print('。。。。。。。跳过电影图片下载')
 
@@ -101,9 +104,7 @@ elif(csv_book_path):
     for book in csv_books:  # 逐行读取数据
       data_book.append(book)
     # 打印数据
-    for row_book in data_book:
-      image_book_url = row_book[3]
-      dowoload_file(image_book_url,'0')
+    download_image_by_csv(data_book)
 else:
   print('。。。。。。。跳过书籍图片下载')
     
