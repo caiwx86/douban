@@ -4,6 +4,100 @@
 		"rating": {
 			"count": 1,
 			"max": 5,
+			"star_count": 4,
+			"value": 4
+		},
+		"sharing_text": "我的评分：★★★★ https://book.douban.com/subject/35335514/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/35335514/interest/4171909743",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2024-04-27 21:17:16",
+		"status": "done",
+		"id": 4171909743,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 59968,
+				"max": 10,
+				"star_count": 4,
+				"value": 7.9
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2021-3"
+			],
+			"pic": {
+				"large": "https://img3.doubanio.com/view/subject/l/public/s33834057.jpg",
+				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s33834057.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
+			},
+			"honor_infos": [
+				{
+					"kind": "book",
+					"uri": "douban://douban.com/subject_collection/ECKY5Y7CA?type=rank&category=book&rank_type=year",
+					"rank": 1,
+					"title": "豆瓣2021年度中国文学（小说类）"
+				}
+			],
+			"other_versions_count": 4,
+			"is_show": false,
+			"vendor_icons": [
+				"https://img2.doubanio.com/f/frodo/6bd2847c065ab16da2b96d1660ea25c4ea017cb9/pics/vendors/logo_xmly.png",
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
+			],
+			"card_subtitle": "余华 / 2021 / 北京十月文艺出版社",
+			"book_subtitle": "",
+			"id": "35335514",
+			"author": [
+				"余华"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "6a7ea5",
+				"_base_color": [
+					0.6092896174863388,
+					0.3588235294117647,
+					0.6666666666666666
+				],
+				"secondary_color": "f4f6f9",
+				"_avg_color": [
+					0.6095238095238095,
+					0.17241379310344823,
+					0.796078431372549
+				],
+				"primary_color_dark": "51617f"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/35335514.jpg",
+			"min_sale_price": null,
+			"press": [
+				"北京十月文艺出版社"
+			],
+			"pages": [
+				"348"
+			],
+			"sharing_url": "https://book.douban.com/subject/35335514/",
+			"url": "https://book.douban.com/subject/35335514/",
+			"title": "文城",
+			"uri": "douban://douban.com/book/35335514",
+			"subtype": "book",
+			"intro": "【编辑推荐】\n★时隔八年，余华全新长篇重磅归来！\n◆人生就是自己的往事和他人的序章\n时代的洪流推着每个人做出各自的选择。\n这是一个荒蛮的年代，结束的尚未结束，开始的尚未开始。\n◆我们总是在不同时代、不同国家、不同语言的作家那里，读到自己的感受，甚至是自己的生活。假如文学中真的存在某些神秘的力量，我想可能就是这些。\n——余华\n★写《活着》的余华又回来了！这一回不止是时空上的突破\n◆讲述南方小镇上各色人物的爱恨悲欢\n颠沛起伏的人生故事牵引出军阀混战、匪祸泛滥的时代之殇\n◆铺开一幅荡气回肠的时代画卷\n在民间叙事中融入魔幻色彩，时空绵延，人物纷杂，情节跌宕\n◆谱写一曲关于命运的荒诞史诗\n细腻而宏大，舒畅而勇猛，夹杂着黑色幽默，道出生命的脆弱与柔韧\n★ 余华亲自选定封面插画\n◆封面插画来自当代艺术家张晓刚作品《失忆与记忆：男人》，风格独特，意蕴广远。\n【内容简介】\n在溪镇人最初的印象里，林祥福是一个身上披戴雪花，头发和胡子遮住脸庞的男人，有着垂柳似的谦卑和田地般的沉默寡言。哪怕后来成了万亩荡和木器社的主人，他身上的谦卑和沉默依旧没有变。他的过去和一座谜一样的城联系在了一起，没人知道他为什么要找一个不存在的地方。\n他原本不属于这里，他的家乡在遥远的北方。为了一个承诺他将自己连根拔起，漂泊至此。往后的日子，他见识过温暖赤诚的心，也见识过冰冷无情的血。最终他徒劳无获，但许多人的牵挂和眼泪都留在了他身上。\n“文城在哪里？”\n“总会有一个地方叫文城。”",
+			"buy_more_uri": "",
+			"null_rating_reason": "",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": true
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
 			"star_count": 5,
 			"value": 5
 		},
@@ -185,7 +279,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 85073,
+				"count": 85074,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -366,7 +460,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 70945,
+				"count": 70948,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7
@@ -458,7 +552,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 72312,
+				"count": 72324,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -552,7 +646,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 91539,
+				"count": 91545,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -644,7 +738,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 831401,
+				"count": 831425,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -738,7 +832,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 12551,
+				"count": 12553,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -826,7 +920,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 106606,
+				"count": 106616,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
