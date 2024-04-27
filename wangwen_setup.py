@@ -8,32 +8,49 @@ def parse_urls():
        urls = fs.readlines()
     data = []
     for url in urls:
-        if not url.startswith("http"): continue
-        html_data = requests.get(url).text
+        if url.startswith("#"): continue
+        html_data = requests.get(url.replace("\n", "")).text
         parse_html = html.fromstring(html_data)
         # 纵横中文网
-        id= url.split("/")[-1]
-        title = parse_html.xpath('//div[@class="book-info--title"]/span/text()')[0]
-        author = parse_html.xpath('//div[@class="author-info--name"]/text()')[0].replace(" ", "")
-        icon = parse_html.xpath('//div[contains(@class,"book-info--coverImage-cover")]/img/@src')[0]
-        desp = parse_html.xpath('//div[@id="pane-bookinfo"]/text()')
-        script = parse_html.xpath('//script/text()')[0].replace("window.__NUXT__=(function(a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u){return", "")
-        begin_index = script.index("description")+12
-        end_index = script.index("totalWords")-1
-        desp = script[begin_index:end_index]
-    
-    data.append({
+        if url.startswith("https://www.zongheng.com"):
+            data.append(domain_zongheng(parse_html))
+        if url.startswith("https://weread.qq.com"):
+            data.append(domain_wxread(parse_html))
+    return data
+
+def domain_wxread(parse_html):
+    title = parse_html.xpath('//h2[@class="bookInfo_right_header_title_text"]/text()')[0]
+    author = parse_html.xpath('//div[@class="bookInfo_author_container"]/a/text()')[0]
+    icon = parse_html.xpath('//div[@class="wr_bookCover bookInfo_cover"]/img/@src')[0]
+#    desp = parse_html.xpath('//div[@class="bookInfo_intro"]/text()')
+    desp = parse_html.xpath('//meta[@name="description"]/@content')[0]
+    return to_string(title=title, author=author, icon=icon, desp=desp)
+
+def domain_zongheng(parse_html):
+    # 纵横中文网
+    title = parse_html.xpath('//div[@class="book-info--title"]/span/text()')[0]
+    author = parse_html.xpath('//div[@class="author-info--name"]/text()')[0].replace("\n", "")
+    icon = parse_html.xpath('//div[contains(@class,"book-info--coverImage-cover")]/img/@src')[0]
+    script = parse_html.xpath('//script/text()')[0].replace("window.__NUXT__=(function(a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u){return", "")
+    begin_index = script.index("description")+12
+    end_index = script.index("totalWords")-1
+    desp = script[begin_index+1:end_index-1].replace("\\u003Cbr\\u003E", "")
+    return to_string(title=title, author=author, icon=icon, desp=desp)
+       
+def to_string(title, icon,author, desp):
+    title = title.replace(" ", "")
+    author = author.replace(" ", "")
+    return {
         "subject": 
             {
             "pic":{ "large" : icon},
-            "id" : id,
+            "id" : title+"_"+author,
             "title" : title,
             "author": [author],
             "intro"  : desp
             }   
-        })
-    return data
-
+        }
+    
 def save_file():
     file = "data/wangwen/books.json"
     if not os.path.exists(os.path.dirname(file)):
