@@ -3,13 +3,13 @@ import requests
 from lxml import html
 import json,os
 
-urls = []
 def parse_urls():
-    urls = requests.get("https://www.caiwenxiu.cn/wangwen.txt").text.split("\n")
+    res = requests.get("https://www.caiwenxiu.cn/wangwen.txt")
+    res.encoding = res.apparent_encoding
     data = []
-    for url in urls:
+    for url in res.text.split("\n"):
         if url.startswith("#"): continue
-        html_data = requests.get(url.replace("\n", "")).text
+        html_data = requests.get(url).text
         parse_html = html.fromstring(html_data)
         # 纵横中文网
         if url.startswith("https://www.zongheng.com"):
@@ -57,6 +57,6 @@ def save_file():
     if not os.path.exists(os.path.dirname(file)):
         os.makedirs(os.path.dirname(file))
     with open("data/wangwen/book.json","w") as fs:
-        json.dump(parse_urls(), fs, indent=4)
+        json.dump(parse_urls(), fs, indent=4, ensure_ascii=False)
 
 save_file()
