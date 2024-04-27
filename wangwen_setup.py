@@ -4,8 +4,7 @@ import json,os
 
 urls = []
 def parse_urls():
-    with open("wangwen.txt", "r") as fs:
-       urls = fs.readlines()
+    urls = requests.get("https://www.caiwenxiu.cn/wangwen.txt").text.split("\n")
     data = []
     for url in urls:
         if url.startswith("#"): continue
