@@ -27,7 +27,7 @@ def download_image_by_json(json_item):
     # id.jpg
     file_name = i['subject']['id']+'.'+image_url.split('.')[-1] 
     dowoload_file(image_url, file_name) 
-  
+ 
 def dowoload_file(image_url, file_name):
   # 确保文件夹路径存在
   os.makedirs(save_folder, exist_ok=True)
@@ -43,8 +43,7 @@ def dowoload_file(image_url, file_name):
   response = requests.get(image_url, headers=headers, timeout=30)
   #file_name = image_url.split('/')[-1]
   save_path = os.path.join(save_folder, file_name)
-  if os.path.exists(save_path):
-    check_image(save_path)
+  if check_image(save_path):
     print(f'文件已存在 {file_name}')
   else:
     print('文件不存在')
@@ -53,6 +52,7 @@ def dowoload_file(image_url, file_name):
     print(f'图片已保存为 {file_name}')
 
 def check_image(image_path):
+  if os.path.exists(image_path):
     try:
         Image.open(image_path).verify()
         print(f"{image_path} is a valid image")
@@ -61,6 +61,8 @@ def check_image(image_path):
         print(f"{image_path} is not a valid image")
         os.remove(image_path)
         return False
+  else:
+    return False
 
 if(json_file_path):
   print('我是Movies Json文件，开始执行。。。。。')
