@@ -21,30 +21,29 @@ def parse_urls():
     return data
 
 def domain_wxread(url, parse_html):
-    title = parse_html.xpath('//h2[@class="bookInfo_right_header_title_text"]/text()')[0]
+    title  = parse_html.xpath('//h2[@class="bookInfo_right_header_title_text"]/text()')[0]
     author = parse_html.xpath('//div[@class="bookInfo_author_container"]/a/text()')[0]
-    icon = parse_html.xpath('//div[@class="wr_bookCover bookInfo_cover"]/img/@src')[0]
-#    desp = parse_html.xpath('//div[@class="bookInfo_intro"]/text()')
-    desp = parse_html.xpath('//meta[@name="description"]/@content')[0]
+    icon   = parse_html.xpath('//div[@class="wr_bookCover bookInfo_cover"]/img/@src')[0]
+#    desp  = parse_html.xpath('//div[@class="bookInfo_intro"]/text()')
+    desp   = parse_html.xpath('//meta[@name="description"]/@content')[0]
     return to_string(url=url, title=title, author=author, icon=icon, desp=desp)
 
 def domain_fanqienovel(url, parse_html):
-    info = parse_html.xpath('//div[@class="page-header-info"]')
-    title = info.xpath('//div[@class="info-name"]/h1/text()')[0]
-    author = info.xpath('//span[@class="author-name-text"]/text()')[0]
-    icon = parse_html.xpath('//div[@class="book-cover"]/img/@src')[0]
-    desp = parse_html.xpath('//div[@class="page-abstract-content"]/p/text()')[0]
+    title  = parse_html.xpath('//div[@class="info-name"]/h1/text()')[0]
+    author = parse_html.xpath('//span[@class="author-name-text"]/text()')[0]
+    icon   = parse_html.xpath('//div[@class="book-cover"]/img/@src')[0]
+    desp   = parse_html.xpath('//div[@class="page-abstract-content"]/p/text()')[0]
     return to_string(url=url, title=title, author=author, icon=icon, desp=desp)
 
 def domain_zongheng(url, parse_html):
     # 纵横中文网
-    title = parse_html.xpath('//div[@class="book-info--title"]/span/text()')[0]
+    title  = parse_html.xpath('//div[@class="book-info--title"]/span/text()')[0]
     author = parse_html.xpath('//div[@class="author-info--name"]/text()')[0].replace("\n", "")
-    icon = parse_html.xpath('//div[contains(@class,"book-info--coverImage-cover")]/img/@src')[0]
+    icon   = parse_html.xpath('//div[contains(@class,"book-info--coverImage-cover")]/img/@src')[0]
     script = parse_html.xpath('//script/text()')[0].replace("window.__NUXT__=(function(a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u){return", "")
     begin_index = script.index("description")+12
-    end_index = script.index("totalWords")-1
-    desp = script[begin_index+1:end_index-1].replace("\\u003Cbr\\u003E", "")
+    end_index   = script.index("totalWords")-1
+    desp        = script[begin_index+1:end_index-1].replace("\\u003Cbr\\u003E", "")
     return to_string(url=url, title=title, author=author, icon=icon, desp=desp)
        
 def to_string(url, title, icon,author, desp):
