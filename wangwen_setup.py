@@ -13,20 +13,20 @@ def parse_urls():
         parse_html = html.fromstring(html_data)
         # 纵横中文网
         if url.startswith("https://www.zongheng.com"):
-            data.append(domain_zongheng(parse_html))
+            data.append(domain_zongheng(url, parse_html))
         if url.startswith("https://weread.qq.com"):
-            data.append(domain_wxread(parse_html))
+            data.append(domain_wxread(url, parse_html))
     return data
 
-def domain_wxread(parse_html):
+def domain_wxread(url, parse_html):
     title = parse_html.xpath('//h2[@class="bookInfo_right_header_title_text"]/text()')[0]
     author = parse_html.xpath('//div[@class="bookInfo_author_container"]/a/text()')[0]
     icon = parse_html.xpath('//div[@class="wr_bookCover bookInfo_cover"]/img/@src')[0]
 #    desp = parse_html.xpath('//div[@class="bookInfo_intro"]/text()')
     desp = parse_html.xpath('//meta[@name="description"]/@content')[0]
-    return to_string(title=title, author=author, icon=icon, desp=desp)
+    return to_string(url=url, title=title, author=author, icon=icon, desp=desp)
 
-def domain_zongheng(parse_html):
+def domain_zongheng(url, parse_html):
     # 纵横中文网
     title = parse_html.xpath('//div[@class="book-info--title"]/span/text()')[0]
     author = parse_html.xpath('//div[@class="author-info--name"]/text()')[0].replace("\n", "")
@@ -35,9 +35,9 @@ def domain_zongheng(parse_html):
     begin_index = script.index("description")+12
     end_index = script.index("totalWords")-1
     desp = script[begin_index+1:end_index-1].replace("\\u003Cbr\\u003E", "")
-    return to_string(title=title, author=author, icon=icon, desp=desp)
+    return to_string(url=url, title=title, author=author, icon=icon, desp=desp)
        
-def to_string(title, icon,author, desp):
+def to_string(url, title, icon,author, desp):
     title = title.replace(" ", "")
     author = author.replace(" ", "")
     return {
@@ -45,6 +45,7 @@ def to_string(title, icon,author, desp):
             {
             "pic":{ "large" : icon},
             "id" : title+"_"+author,
+            "url": url,
             "title" : title,
             "author": [author],
             "intro"  : desp
@@ -56,6 +57,6 @@ def save_file():
     if not os.path.exists(os.path.dirname(file)):
         os.makedirs(os.path.dirname(file))
     with open("data/wangwen/book.json","w") as fs:
-        fs.write(json.dumps(parse_urls()))
+        json.dump(parse_urls(), fs, indent=4)
 
 save_file()
