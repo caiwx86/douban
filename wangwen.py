@@ -43,12 +43,13 @@ def to_string(url, title, icon,author, desp):
     return {
         "subject": 
             {
-            "pic":{ "large" : icon},
-            "id" : title+"_"+author,
-            "url": url,
+            "pic"   : { "large" : icon},
+            "id"    : title+"_"+author,
+            "url"   : url,
             "title" : title,
             "author": [author],
-            "intro"  : desp
+            "intro" : desp,
+            "type"  : "wangwen"
             }   
         }
     
