@@ -1,8 +1,5 @@
 import requests,sys,json,os,csv
 from PIL import Image
-from urllib.parse import quote
-
-def encoded_url(url): return quote(url, safe='/:?=&')
 
 categorize = sys.argv[1]
 save_folder = './images/'+categorize+'/'
@@ -42,7 +39,6 @@ def download_image_by_csv(data_csv):
     dowoload_file(image_url, file_name) 
   
 def dowoload_file(image_url, file_name):
-  image_url = encoded_url(image_url)
   # 确保文件夹路径存在
   os.makedirs(save_folder, exist_ok=True)
   if image_url.startswith("https://") and "koobai.com" in image_url:

@@ -2,9 +2,6 @@
 import requests
 from lxml import html
 import json,os
-from urllib.parse import quote
-
-def encoded_url(url): return quote(url, safe='/:?=&')
 
 def parse_urls():
     res = requests.get("https://www.caiwenxiu.cn/wangwen.txt")
@@ -12,7 +9,7 @@ def parse_urls():
     data = []
     for url in res.text.split("\n"):
         if url.startswith("#"): continue
-        html_data = requests.get(encoded_url(url)).text
+        html_data = requests.get(url).text
         parse_html = html.fromstring(html_data)
         # 纵横中文网
         if url.startswith("https://www.zongheng.com"):
