@@ -25,13 +25,15 @@ def download_image_by_json(json_item):
   for i in json_item: 
     image_url = i['subject']['pic']['large']
     # id.jpg
-    file_name = i['subject']['id']+'.'+image_url.split('.')[-1] 
+    #file_name = i['subject']['id']+'.'+image_url.split('.')[-1] 
+    file_name = i['subject']['id']+'.jpg'
     dowoload_file(image_url, file_name) 
 
 def download_image_by_csv(data_csv):
   for row in data_csv:
     image_url = row[3]
-    file_name = row[0]+'.'+image_url.split(".")[-1]
+    #file_name = row[0]+'.'+image_url.split(".")[-1]
+    file_name = row[0]+'.jpg'
     dowoload_file(image_url, file_name) 
   
 def dowoload_file(image_url, file_name):
