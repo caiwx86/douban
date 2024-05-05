@@ -279,7 +279,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 85238,
+				"count": 85240,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -460,7 +460,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 71025,
+				"count": 71028,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7
@@ -552,7 +552,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 72641,
+				"count": 72642,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -738,7 +738,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 832475,
+				"count": 832489,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -851,7 +851,8 @@
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/6bd2847c065ab16da2b96d1660ea25c4ea017cb9/pics/vendors/logo_xmly.png",
 				"https://img2.doubanio.com/f/frodo/af225732b19d0a4c9c6a5e4430cf3fbba2859b43/pics/vendors/migu_book_logo.png",
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "张嘉佳 / 2021 / 湖南文艺出版社",
 			"book_subtitle": "",
@@ -919,7 +920,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 107343,
+				"count": 107347,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
