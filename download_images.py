@@ -50,7 +50,8 @@ def dowoload_file(image_url, file_name):
     headers = {
     'Referer': 'https://doubanio.com'
     }
-  response = requests.get(image_url, headers=headers, timeout=30)
+  #response = requests.get(image_url, headers=headers, timeout=30)
+  response = requests.get(image_url, timeout=30)
   #file_name = image_url.split('/')[-1]
   save_path = os.path.join(save_folder, file_name)
   if check_image(save_path):
