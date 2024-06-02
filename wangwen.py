@@ -21,7 +21,8 @@ def if_cache_path(url):
     
 def cache_html(url, html_data):
     cache_path = if_cache_path(url)
-    os.makedirs(os.path.dirname(cache_path))
+    cache_dir = os.path.dirname(cache_path)
+    if not os.path.exists(cache_dir) : os.makedirs(cache_dir)
     with open(cache_path, "w") as fs:
         fs.write(html_data)  
     
