@@ -2,14 +2,45 @@
 import requests
 from lxml import html
 import json,os
+from urllib.parse import urlparse
+ 
+def url_to_path(url):
+    parsed_url = urlparse(url)
+    path = parsed_url.path
+    # 移除path开头的'/'，并将其他的'/'替换为操作系统的路径分隔符
+    return path.lstrip('/').replace('/', os.sep)
+    #return path.lstrip('/').replace('/', os.sep)
 
+def if_cache_path(url):
+    cache_root = ".cache"
+    # cache html
+    domain = url.split("//")[1].split("/")[0]
+    path = url_to_path(url)
+    cache_path = os.path.join(cache_root, domain, path)
+    return cache_path
+    
+def cache_html(url, html_data):
+    cache_path = if_cache_path(url)
+    os.makedirs(os.path.dirname(cache_path))
+    with open(cache_path, "w") as fs:
+        fs.write(html_data)  
+    
+def get_html(url):
+    if os.path.exists(if_cache_path(url)):
+        with open(if_cache_path(url), "r") as fs:
+            html_data = fs.read()
+    else:
+        html_data = requests.get(url).text
+        cache_html(url, html_data) 
+    return html_data 
+    
 def parse_urls():
     res = requests.get("https://www.caiwenxiu.cn/wangwen.txt")
     res.encoding = res.apparent_encoding
     data = []
     for url in res.text.split("\n"):
         if url.startswith("#"): continue
-        html_data = requests.get(url).text
+        html_data = get_html(url) 
         parse_html = html.fromstring(html_data)
         # 纵横中文网
         if url.startswith("https://www.zongheng.com"):
