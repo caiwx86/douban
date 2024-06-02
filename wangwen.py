@@ -39,7 +39,7 @@ def domain_fanqienovel(url, parse_html):
 def domain_zongheng(url, parse_html):
     # 纵横中文网
     title  = parse_html.xpath('//div[@class="book-info--title"]/span/text()')[0]
-    author = parse_html.xpath('//div[@class="author-info--name"]/text()')[0].replace("\n", "")
+    author = parse_html.xpath('//a[@class="author-info--name"]/text()')[0].replace("\n", "").replace(" ", "")
     icon   = parse_html.xpath('//div[contains(@class,"book-info--coverImage-cover")]/img/@src')[0]
     script = parse_html.xpath('//script/text()')[0].replace("window.__NUXT__=(function(a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u){return", "")
     begin_index = script.index("description")+12
