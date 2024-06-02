@@ -60,7 +60,8 @@ def to_string(url, title, icon,author, desp):
             "author": [author],
             "intro" : desp,
             "type"  : "wangwen",
-            "rating": { "value" : 6.6 }
+            "rating": { "value" : 6.6 },
+            "cover_url" : icon
             }   
         }
     

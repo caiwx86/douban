@@ -25,7 +25,8 @@ def exists(path):
   
 def download_image_by_json(json_item):
   for i in json_item: 
-    image_url = i['subject']['pic']['large']
+    image_url = i['subject']['cover_url']
+    #image_url = i['subject']['pic']['large']
     # id.jpg
     #file_name = i['subject']['id']+'.'+image_url.split('.')[-1] 
     file_name = i['subject']['id']+'.jpg'
@@ -50,8 +51,7 @@ def dowoload_file(image_url, file_name):
     headers = {
     'Referer': 'https://doubanio.com'
     }
-  #response = requests.get(image_url, headers=headers, timeout=30)
-  response = requests.get(image_url, timeout=30)
+  response = requests.get(image_url, headers=headers, timeout=30)
   #file_name = image_url.split('/')[-1]
   save_path = os.path.join(save_folder, file_name)
   if check_image(save_path):
