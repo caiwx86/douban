@@ -302,5 +302,24 @@
             },
             "cover_url": "https://wfqqreader-1252317822.image.myqcloud.com/cover/589/463589/t6_463589.jpg"
         }
+    },
+    {
+        "subject": {
+            "pic": {
+                "large": "https://wfqqreader-1252317822.image.myqcloud.com/cover/56/750056/t6_750056.jpg"
+            },
+            "id": "诛仙_萧鼎",
+            "url": "https://weread.qq.com/web/bookDetail/eda32c505b71e8edad091c3",
+            "title": "诛仙",
+            "author": [
+                "萧鼎"
+            ],
+            "intro": "诛仙动画，每周六10:00腾讯视频火热播出！      这世间本是没有什么神仙的，但自太古以来，人类眼见周遭世界，诸般奇异之事……",
+            "type": "wangwen",
+            "rating": {
+                "value": 6.6
+            },
+            "cover_url": "https://wfqqreader-1252317822.image.myqcloud.com/cover/56/750056/t6_750056.jpg"
+        }
     }
 ]
