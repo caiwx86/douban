@@ -19,7 +19,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 60600,
+				"count": 61180,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -279,7 +279,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 85800,
+				"count": 88468,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -375,10 +375,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5768,
+				"count": 5905,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 9.1
+				"value": 9.2
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -460,7 +460,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 71227,
+				"count": 71477,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7
@@ -481,7 +481,7 @@
 					"title": "2023年出版10周年图书"
 				}
 			],
-			"other_versions_count": 8,
+			"other_versions_count": 9,
 			"is_show": false,
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
@@ -552,7 +552,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 73576,
+				"count": 74683,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -569,7 +569,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 199,
+					"rank": 195,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -646,7 +646,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 92188,
+				"count": 92768,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -667,7 +667,7 @@
 					"title": "2019年度中国文学(小说类)"
 				}
 			],
-			"other_versions_count": 3,
+			"other_versions_count": 4,
 			"is_show": false,
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
@@ -738,7 +738,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 835615,
+				"count": 839657,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -832,7 +832,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 12732,
+				"count": 13083,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -919,7 +919,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 109394,
+				"count": 111690,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -936,7 +936,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 52,
+					"rank": 51,
 					"title": "豆瓣图书Top250"
 				}
 			],
