@@ -19,7 +19,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 64645,
+				"count": 64651,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -35,9 +35,9 @@
 			"honor_infos": [
 				{
 					"kind": "book",
-					"uri": "douban://douban.com/subject_collection/ECKY5Y7CA?type=rank&category=book&rank_type=year",
-					"rank": 1,
-					"title": "豆瓣2021年度中国文学（小说类）"
+					"uri": "douban://douban.com/subject_collection/ECBI52HYA?type=rank&category=book&rank_type=year",
+					"rank": 8,
+					"title": "豆瓣2021年度最受关注图书"
 				}
 			],
 			"other_versions_count": 4,
@@ -278,7 +278,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 94570,
+				"count": 94571,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -372,7 +372,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6969,
+				"count": 6970,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -457,7 +457,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 73113,
+				"count": 73117,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.1
@@ -549,7 +549,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 82149,
+				"count": 82162,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -643,7 +643,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 96826,
+				"count": 96832,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -659,9 +659,9 @@
 			"honor_infos": [
 				{
 					"kind": "book",
-					"uri": "douban://douban.com/subject_collection/ECVYHLOTA?type=rank&category=book&rank_type=year",
-					"rank": 1,
-					"title": "2019年度中国文学(小说类)"
+					"uri": "douban://douban.com/subject_collection/EC4IHYWQY?type=rank&category=book&rank_type=year",
+					"rank": 9,
+					"title": "2019年度最受关注图书"
 				}
 			],
 			"other_versions_count": 4,
@@ -735,7 +735,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 869469,
+				"count": 869507,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -915,7 +915,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 127466,
+				"count": 127481,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
