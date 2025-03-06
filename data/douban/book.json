@@ -19,7 +19,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 64727,
+				"count": 64728,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -34,7 +34,7 @@
 			},
 			"honor_infos": [
 				{
-					"kind": "",
+					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/ECBI52HYA?type=rank&category=book&rank_type=year",
 					"rank": 8,
 					"title": "豆瓣2021年度最受关注图书"
@@ -278,7 +278,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 94660,
+				"count": 94664,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -293,7 +293,7 @@
 			},
 			"honor_infos": [
 				{
-					"kind": "",
+					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/2018_book_899?type=rank&category=book&rank_type=year",
 					"rank": 5,
 					"title": "2018年度温暖·治愈"
@@ -372,7 +372,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 7015,
+				"count": 7018,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -457,7 +457,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 73172,
+				"count": 73173,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.1
@@ -472,7 +472,7 @@
 			},
 			"honor_infos": [
 				{
-					"kind": "",
+					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/ECWQ6BC2I?type=rank&category=book&rank_type=year",
 					"rank": 1,
 					"title": "2023年出版10周年图书"
@@ -549,7 +549,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 82396,
+				"count": 82406,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -564,7 +564,7 @@
 			},
 			"honor_infos": [
 				{
-					"kind": "",
+					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
 					"rank": 192,
 					"title": "豆瓣图书Top250"
@@ -643,7 +643,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 96981,
+				"count": 96984,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -658,7 +658,7 @@
 			},
 			"honor_infos": [
 				{
-					"kind": "",
+					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/EC4IHYWQY?type=rank&category=book&rank_type=year",
 					"rank": 9,
 					"title": "2019年度最受关注图书"
@@ -735,7 +735,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 870487,
+				"count": 870534,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -750,7 +750,7 @@
 			},
 			"honor_infos": [
 				{
-					"kind": "",
+					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
 					"rank": 2,
 					"title": "豆瓣图书Top250"
@@ -915,7 +915,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 127953,
+				"count": 127976,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -930,7 +930,7 @@
 			},
 			"honor_infos": [
 				{
-					"kind": "",
+					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
 					"rank": 51,
 					"title": "豆瓣图书Top250"
