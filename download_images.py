@@ -54,9 +54,9 @@ def dowoload_file(image_url, file_name):
   #file_name = image_url.split('/')[-1]
   save_path = os.path.join(save_folder, file_name)
   if check_image(save_path):
-    print(f'文件已存在 {file_name}')
+    print(f'文件已存在 {save_path}')
   else:
-    print('文件不存在, 开始下载...')
+    print(f'文件不存在{save_path}, 开始下载...')
     response = requests.get(image_url, headers=headers, timeout=30)
     with open(save_path, 'wb') as file:
       file.write(response.content)
