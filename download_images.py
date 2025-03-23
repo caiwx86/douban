@@ -51,13 +51,13 @@ def dowoload_file(image_url, file_name):
     headers = {
     'Referer': 'https://doubanio.com'
     }
-  response = requests.get(image_url, headers=headers, timeout=30)
   #file_name = image_url.split('/')[-1]
   save_path = os.path.join(save_folder, file_name)
   if check_image(save_path):
     print(f'文件已存在 {file_name}')
   else:
-    print('文件不存在')
+    print('文件不存在, 开始下载...')
+    response = requests.get(image_url, headers=headers, timeout=30)
     with open(save_path, 'wb') as file:
       file.write(response.content)
     print(f'图片已保存为 {file_name}')
