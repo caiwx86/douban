@@ -25,11 +25,12 @@ def exists(path):
   
 def download_image_by_json(json_item):
   for i in json_item: 
-    image_url = i['subject']['cover_url']
-    #image_url = i['subject']['pic']['large']
+    #image_url = i['subject']['cover_url']
+    image_url = i['subject']['pic']['large']
     # id.jpg
     #file_name = i['subject']['id']+'.'+image_url.split('.')[-1] 
     file_name = i['subject']['id']+'.jpg'
+    print(f"image_url={image_url}, file_name={file_name}")
     dowoload_file(image_url, file_name) 
 
 def download_image_by_csv(data_csv):
