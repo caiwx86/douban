@@ -19,7 +19,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 65604,
+				"count": 65607,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -277,7 +277,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 95545,
+				"count": 95546,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -370,7 +370,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 7452,
+				"count": 7454,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -543,7 +543,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 84386,
+				"count": 84391,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -636,7 +636,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 98008,
+				"count": 98010,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -726,7 +726,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 878716,
+				"count": 878734,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -819,7 +819,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 14826,
+				"count": 14827,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -865,7 +865,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/35562179.jpg",
-			"min_sale_price": "¥27.4",
+			"min_sale_price": "¥18.48",
 			"press": [
 				"湖南文艺出版社"
 			],
@@ -905,10 +905,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 132071,
+				"count": 132077,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 9
+				"value": 9.1
 			},
 			"controversy_reason": "",
 			"pubdate": [
