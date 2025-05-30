@@ -19,7 +19,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 65743,
+				"count": 65746,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -277,7 +277,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 95673,
+				"count": 95677,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -453,7 +453,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 73663,
+				"count": 73666,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7
@@ -543,7 +543,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 84750,
+				"count": 84756,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -636,7 +636,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 98173,
+				"count": 98174,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -726,7 +726,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 880105,
+				"count": 880119,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -819,7 +819,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 14876,
+				"count": 14877,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -905,7 +905,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 132752,
+				"count": 132761,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -928,9 +928,7 @@
 			],
 			"other_versions_count": 0,
 			"is_show": false,
-			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
-			],
+			"vendor_icons": [],
 			"card_subtitle": "杨本芬 / 2020 / 北京联合出版公司",
 			"book_subtitle": "",
 			"id": "34998019",
@@ -957,7 +955,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/34998019.jpg",
-			"min_sale_price": "¥18.3",
+			"min_sale_price": "¥19.0",
 			"press": [
 				"北京联合出版公司"
 			],
@@ -974,7 +972,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": true
+			"has_ebook": false
 		}
 	}
 ]
