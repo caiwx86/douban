@@ -19,7 +19,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 66202,
+				"count": 66203,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -96,6 +96,172 @@
 		"rating": {
 			"count": 1,
 			"max": 5,
+			"star_count": 5,
+			"value": 5
+		},
+		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/26877099 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/26877099/interest/3999277800",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2023-11-23 00:02:28",
+		"status": "done",
+		"id": 3999277800,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 511,
+				"max": 10,
+				"star_count": 4.5,
+				"value": 9
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2016-8-2"
+			],
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/l/public/s29051104.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/m/public/s29051104.jpg"
+			},
+			"honor_infos": [],
+			"other_versions_count": 0,
+			"is_show": false,
+			"vendor_icons": [],
+			"card_subtitle": "汪曾祺 / 2016 / 作家出版社",
+			"book_subtitle": "汪曾祺后人监制，全新修订精装典藏纪念版",
+			"id": "26877099",
+			"author": [
+				"汪曾祺"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": false,
+				"primary_color_light": "f2f2eb",
+				"_base_color": [
+					0.16666666666666666,
+					0.028225806451612916,
+					0.9725490196078431
+				],
+				"secondary_color": "f9f9f4",
+				"_avg_color": [
+					0.05855855855855859,
+					0.1548117154811716,
+					0.9372549019607843
+				],
+				"primary_color_dark": "f2f2eb"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/26877099.jpg",
+			"min_sale_price": "",
+			"press": [
+				"作家出版社"
+			],
+			"pages": [
+				"400"
+			],
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/26877099",
+			"url": "https://book.douban.com/subject/26877099/",
+			"title": "受戒",
+			"uri": "douban://douban.com/book/26877099",
+			"subtype": "book",
+			"intro": "汪曾祺饱含诗情的极美小说，以诗意的文字，讲述诗意的爱情。\n《受戒》源于汪曾祺几十年前的一个梦，在一个充满诗意的水乡里，一个小和尚和一个小女孩儿之间产生了懵懂的爱情，在这世外桃源般的乡间，自然随意就是至纯至美。\n《受戒》像笼着轻纱的梦境，处处洋溢着世俗匪夷所思的欢乐，清新秀丽中饱含诗性美和音乐美，散发出淳朴的人性的光芒。汪曾祺以一人之力，续接了自鲁迅至沈从文的“乡土”文脉，此小说一经发表，在文坛中引起强烈震动。\n《受戒》为汪曾祺的小说精选集，囊括《受戒》《王四海的黄昏》《故里三陈》等汪氏小说代表作。",
+			"buy_more_uri": "",
+			"null_rating_reason": "",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": false
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 5,
+			"value": 5
+		},
+		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/26461263 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/26461263/interest/3996927723",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2023-11-20 19:54:46",
+		"status": "done",
+		"id": 3996927723,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 54,
+				"max": 10,
+				"star_count": 4.5,
+				"value": 8.7
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2007-10-1"
+			],
+			"pic": {
+				"large": "https://img1.doubanio.com/view/subject/l/public/s28258998.jpg",
+				"normal": "https://img1.doubanio.com/view/subject/m/public/s28258998.jpg"
+			},
+			"honor_infos": [],
+			"other_versions_count": 0,
+			"is_show": false,
+			"vendor_icons": [],
+			"card_subtitle": "轩弦 / 2007 / 内蒙古人民出版社",
+			"book_subtitle": "",
+			"id": "26461263",
+			"author": [
+				"轩弦"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "a5a59b",
+				"_base_color": [
+					0.16666666666666666,
+					0.060606060606060705,
+					0.12941176470588237
+				],
+				"secondary_color": "f9f9f4",
+				"_avg_color": [
+					0.5897435897435898,
+					0.06632653061224494,
+					0.7686274509803922
+				],
+				"primary_color_dark": "7f7f77"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/26461263.jpg",
+			"min_sale_price": "",
+			"press": [
+				"内蒙古人民出版社"
+			],
+			"pages": [
+				"300"
+			],
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/26461263",
+			"url": "https://book.douban.com/subject/26461263/",
+			"title": "我的完美女友何雨晴",
+			"uri": "douban://douban.com/book/26461263",
+			"subtype": "book",
+			"intro": "如果你的女朋友有着美丽的容貌、雪白的肌肤和姣好的身材……\n如果你的女朋友冰雪聪明、温柔体贴、不乱花钱、对你的照顾无微不至……\n如果你的女朋友除你以外不曾爱过其他男人，对你一心一意、死心塌地……\nStop！这世界会有这样完美的女朋友吗？\n或者你不相信，但我的女友真的如此完美。\n然而在完美背后，却隐藏着一个我所无法接受的大秘密……",
+			"buy_more_uri": "",
+			"null_rating_reason": "",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": false
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
 			"star_count": 4,
 			"value": 4
 		},
@@ -111,7 +277,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 96092,
+				"count": 96094,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -207,7 +373,7 @@
 				"count": 7706,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 9.2
+				"value": 9.1
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -377,7 +543,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 85693,
+				"count": 85695,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -401,7 +567,8 @@
 			"other_versions_count": 15,
 			"is_show": false,
 			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "余华 / 2012 / 作家出版社",
 			"book_subtitle": "",
@@ -469,7 +636,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 98695,
+				"count": 98697,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -559,7 +726,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 884177,
+				"count": 884193,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -738,183 +905,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 134461,
-				"max": 10,
-				"star_count": 4.5,
-				"value": 9
-			},
-			"controversy_reason": "",
-			"pubdate": [
-				"2020-6"
-			],
-			"pic": {
-				"large": "https://img1.doubanio.com/view/subject/l/public/s33640730.jpg",
-				"normal": "https://img1.doubanio.com/view/subject/m/public/s33640730.jpg"
-			},
-			"honor_infos": [
-				{
-					"kind": "book",
-					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 50,
-					"title": "豆瓣图书Top250"
-				}
-			],
-			"other_versions_count": 0,
-			"is_show": false,
-			"vendor_icons": [],
-			"card_subtitle": "杨本芬 / 2020 / 北京联合出版公司",
-			"book_subtitle": "",
-			"id": "34998019",
-			"author": [
-				"杨本芬"
-			],
-			"is_released": true,
-			"vendor_original_price": "",
-			"color_scheme": {
-				"is_dark": true,
-				"primary_color_light": "a55c48",
-				"_base_color": [
-					0.03561253561253561,
-					0.5625,
-					0.8156862745098039
-				],
-				"secondary_color": "f9f5f4",
-				"_avg_color": [
-					0.03846153846153847,
-					0.5170454545454546,
-					0.6901960784313725
-				],
-				"primary_color_dark": "7f4737"
-			},
-			"type": "book",
-			"cover_url": "https://dou.img.lithub.cc/book/34998019.jpg",
-			"min_sale_price": "¥19.0",
-			"press": [
-				"北京联合出版公司"
-			],
-			"pages": [
-				"280"
-			],
-			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/34998019",
-			"url": "https://book.douban.com/subject/34998019/",
-			"title": "秋园",
-			"uri": "douban://douban.com/book/34998019",
-			"subtype": "book",
-			"intro": "听八旬奶奶讲述她和妈妈的故事。\n1914年，世上有了“秋园”这个人。1918年，汉语有了“她”这个字。秋园，她来过，挣扎过，绝望过，幸福过。今天，她80岁的女儿，把普普通通的她，讲给世界听。\n“我写了一位普通中国女性一生的故事，写了我们一家人如何像水中的浮木般挣扎求生，写了中南腹地那些乡间人物的生生死死。我知道自己写出的故事如同一滴水，最终将汇入人类历史的长河。”",
-			"buy_more_uri": "douban://douban.com/book/34998019/vendors_douban",
-			"null_rating_reason": "",
-			"article_intros": [],
-			"vendor_sale_price": "",
-			"has_ebook": false
-		}
-	},
-	{
-		"comment": "",
-		"rating": {
-			"count": 1,
-			"max": 5,
-			"star_count": 5,
-			"value": 5
-		},
-		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/35562179 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/35562179/interest/3985090021",
-		"tags": [],
-		"charts": [],
-		"platforms": [],
-		"vote_count": 0,
-		"create_time": "2023-11-07 23:08:26",
-		"status": "done",
-		"id": 3985090021,
-		"is_private": false,
-		"subject": {
-			"rating": {
-				"count": 15003,
-				"max": 10,
-				"star_count": 3.5,
-				"value": 7.4
-			},
-			"controversy_reason": "",
-			"pubdate": [
-				"2021-8"
-			],
-			"pic": {
-				"large": "https://img2.doubanio.com/view/subject/l/public/s33967851.jpg",
-				"normal": "https://img2.doubanio.com/view/subject/m/public/s33967851.jpg"
-			},
-			"honor_infos": [],
-			"other_versions_count": 0,
-			"is_show": false,
-			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
-				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
-			],
-			"card_subtitle": "张嘉佳 / 2021 / 湖南文艺出版社",
-			"book_subtitle": "",
-			"id": "35562179",
-			"author": [
-				"张嘉佳"
-			],
-			"is_released": true,
-			"vendor_original_price": "",
-			"color_scheme": {
-				"is_dark": true,
-				"primary_color_light": "a57b0f",
-				"_base_color": [
-					0.11959876543209876,
-					0.907563025210084,
-					0.9333333333333333
-				],
-				"secondary_color": "f9f8f4",
-				"_avg_color": [
-					0.11627906976744184,
-					0.5352697095435685,
-					0.9450980392156862
-				],
-				"primary_color_dark": "7f5e0b"
-			},
-			"type": "book",
-			"cover_url": "https://dou.img.lithub.cc/book/35562179.jpg",
-			"min_sale_price": "¥27.4",
-			"press": [
-				"湖南文艺出版社"
-			],
-			"pages": [
-				"304"
-			],
-			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/35562179",
-			"url": "https://book.douban.com/subject/35562179/",
-			"title": "天堂旅行团",
-			"uri": "douban://douban.com/book/35562179",
-			"subtype": "book",
-			"intro": "生命的终章，我踏上了一段旅途。开着破烂的面包车，穿越几十座城市，撕开雨天，潜入他乡，尽头是天堂。\n浅蓝的天光，泛紫的云层，路灯嵌进夕阳。山间道路弥漫着一万吨水汽，密林卷来风声，我闯进无止境的夜里。\n她说，天总会亮的。那么，我们一起记录下，凌晨前的人生。\n-\n【推荐语】\n暌违 三年，继《全世界》《云边》之后，张嘉佳2021全新长篇力作。希望这本书能照亮那些在黑夜中走路的人，这世界不停开花，我想放进你心里一朵。\n-\n【名人推荐】\n嘉佳的家乡离南京不远，在南京生活久了，为人为文，就有了浓浓的南京气息。南京人爱吃会吃，爱交朋友，不爱计较，自由散漫的烟火气背后，始终有着飞扬的诗意。这本小说从南京出发，从城南桂花飘香的秋天开始，有一种特别的文艺气质。时至今日，阅读越来越小众，嘉佳的文字依然可以电击很多人，打动很多人。\n——著名作家 叶兆言\n很欣喜看到年轻一代的作家贴近现实的文本表达。小说从一个自身难保的普通人视角展开，撷取了主人公生命中一段既平凡又不凡的旅程。平凡在于不拔高不浮夸，不凡则在于情感层层递进，击穿人心。通篇读来有着一种贴地飞行的浪漫质感。一个认真书写当下生活的写作者，也注定会在这个时代留下自己的印记。\n——茅盾文学奖获奖作家 梁晓声",
-			"buy_more_uri": "douban://douban.com/book/35562179/vendors_douban",
-			"null_rating_reason": "",
-			"article_intros": [],
-			"vendor_sale_price": "",
-			"has_ebook": true
-		}
-	},
-	{
-		"comment": "",
-		"rating": {
-			"count": 1,
-			"max": 5,
-			"star_count": 5,
-			"value": 5
-		},
-		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/34998019 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/34998019/interest/3983551888",
-		"tags": [],
-		"charts": [],
-		"platforms": [],
-		"vote_count": 0,
-		"create_time": "2023-11-06 06:46:54",
-		"status": "done",
-		"id": 3983551888,
-		"is_private": false,
-		"subject": {
-			"rating": {
-				"count": 134461,
+				"count": 134470,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
