@@ -19,7 +19,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 66616,
+				"count": 66618,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -277,7 +277,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 96473,
+				"count": 96475,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -370,7 +370,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 7869,
+				"count": 7870,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -384,7 +384,7 @@
 				"normal": "https://img3.doubanio.com/view/subject/m/public/s33936373.jpg"
 			},
 			"honor_infos": [],
-			"other_versions_count": 35,
+			"other_versions_count": 36,
 			"is_show": false,
 			"vendor_icons": [],
 			"card_subtitle": "路遥 / 2021 / 北京十月文艺出版社",
@@ -543,7 +543,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 86576,
+				"count": 86577,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -560,7 +560,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 194,
+					"rank": 196,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -636,7 +636,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 99158,
+				"count": 99161,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -726,7 +726,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 888211,
+				"count": 888231,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -905,7 +905,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 136222,
+				"count": 136230,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -922,7 +922,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 51,
+					"rank": 49,
 					"title": "豆瓣图书Top250"
 				}
 			],
