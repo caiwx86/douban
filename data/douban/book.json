@@ -20,7 +20,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 67387,
+				"count": 67388,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -127,9 +127,11 @@
 				"normal": "https://img9.doubanio.com/view/subject/m/public/s29051104.jpg"
 			},
 			"honor_infos": [],
-			"other_versions_count": 0,
+			"other_versions_count": 26,
 			"is_show": false,
-			"vendor_icons": [],
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
 			"card_subtitle": "汪曾祺 / 2016 / 作家出版社",
 			"book_subtitle": "汪曾祺后人监制，全新修订精装典藏纪念版",
 			"id": "26877099",
@@ -173,7 +175,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": false
+			"has_ebook": true
 		}
 	},
 	{
@@ -281,7 +283,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 97075,
+				"count": 97076,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -375,7 +377,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 8160,
+				"count": 8161,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -550,7 +552,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 88103,
+				"count": 88104,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -643,7 +645,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 100003,
+				"count": 100005,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -734,7 +736,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 894855,
+				"count": 894869,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -914,7 +916,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 139256,
+				"count": 139258,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
