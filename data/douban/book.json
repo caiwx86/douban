@@ -20,7 +20,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 68544,
+				"count": 68546,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -283,7 +283,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 97669,
+				"count": 97671,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -461,7 +461,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 74933,
+				"count": 74936,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.1
@@ -511,7 +511,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/24540864.jpg",
-			"min_sale_price": "",
+			"min_sale_price": "¥20.65",
 			"press": [
 				"新星出版社"
 			],
@@ -524,7 +524,7 @@
 			"uri": "douban://douban.com/book/24540864",
 			"subtype": "book",
 			"intro": "“浓雾弥漫之时，我走出了出租屋，在空虚混沌的城市里孑孓而行。我要去的地方名叫殡仪馆，这是它现在的名字，它过去的名字叫火葬场。我得到一个通知，让我早晨九点之前赶到殡仪馆，我的火化时间预约在九点半。”\n这是余华最新长篇小说《第七天》的开篇，给读者留下了足够大的悬念，一个走向殡仪馆、将被火化的人，在死亡之后还能留给读者什么呢？这次余华用荒诞的笔触和意象讲述了一个比《活着》更绝望、比《兄弟》更荒诞的故事，让读者体会到一种寒冬腊月被囚禁于积年冰川里的寒冷，一种剧烈拉锯式切肤的疼痛和虐心，一种茫茫荒野身心俱疲后无着无落的绝望。",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/24540864/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -552,7 +552,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 89848,
+				"count": 89856,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -736,7 +736,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 902793,
+				"count": 902817,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -788,7 +788,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/4913064.jpg",
-			"min_sale_price": "",
+			"min_sale_price": "¥14.0",
 			"press": [
 				"作家出版社"
 			],
@@ -801,7 +801,7 @@
 			"uri": "douban://douban.com/book/4913064",
 			"subtype": "book",
 			"intro": "《活着(新版)》讲述了农村人福贵悲惨的人生遭遇。福贵本是个阔少爷，可他嗜赌如命，终于赌光了家业，一贫如洗。他的父亲被他活活气死，母亲则在穷困中患了重病，福贵前去求药，却在途中被国民党抓去当壮丁。经过几番波折回到家里，才知道母亲早已去世，妻子家珍含辛茹苦地养大两个儿女。此后更加悲惨的命运一次又一次降临到福贵身上，他的妻子、儿女和孙子相继死去，最后只剩福贵和一头老牛相依为命，但老人依旧活着，仿佛比往日更加洒脱与坚强。\n《活着(新版)》荣获意大利格林扎纳•卡佛文学奖最高奖项（1998年）、台湾《中国时报》10本好书奖（1994年）、香港“博益”15本好书奖（1994年）、第三届世界华文“冰心文学奖”（2002年），入选香港《亚洲周刊》评选的“20世纪中文小说百年百强”、中国百位批评家和文学编辑评选的“20世纪90年代最有影响的10部作品”。",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/4913064/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -829,7 +829,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 15640,
+				"count": 15641,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -916,7 +916,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 142878,
+				"count": 142889,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -968,7 +968,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/34998019.jpg",
-			"min_sale_price": "¥26.8",
+			"min_sale_price": "¥20.9",
 			"press": [
 				"北京联合出版公司"
 			],
