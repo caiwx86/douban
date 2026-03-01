@@ -20,7 +20,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 69162,
+				"count": 69163,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -283,7 +283,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 98099,
+				"count": 98101,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -461,7 +461,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 75246,
+				"count": 75247,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.1
@@ -552,7 +552,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 90957,
+				"count": 90959,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -736,7 +736,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 908170,
+				"count": 908180,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -916,7 +916,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 145500,
+				"count": 145504,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -968,7 +968,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/34998019.jpg",
-			"min_sale_price": "",
+			"min_sale_price": "¥24.7",
 			"press": [
 				"北京联合出版公司"
 			],
@@ -981,7 +981,7 @@
 			"uri": "douban://douban.com/book/34998019",
 			"subtype": "book",
 			"intro": "听八旬奶奶讲述她和妈妈的故事。\n1914年，世上有了“秋园”这个人。1918年，汉语有了“她”这个字。秋园，她来过，挣扎过，绝望过，幸福过。今天，她80岁的女儿，把普普通通的她，讲给世界听。\n“我写了一位普通中国女性一生的故事，写了我们一家人如何像水中的浮木般挣扎求生，写了中南腹地那些乡间人物的生生死死。我知道自己写出的故事如同一滴水，最终将汇入人类历史的长河。”",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/34998019/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
