@@ -20,7 +20,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 69600,
+				"count": 69601,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -64,9 +64,9 @@
 				],
 				"secondary_color": "f4f6f9",
 				"_avg_color": [
-					0.6095238095238095,
-					0.17241379310344823,
-					0.796078431372549
+					0.6078431372549019,
+					0.1683168316831683,
+					0.792156862745098
 				],
 				"primary_color_dark": "51617f"
 			},
@@ -142,19 +142,19 @@
 			"vendor_original_price": "",
 			"color_scheme": {
 				"is_dark": false,
-				"primary_color_light": "f2f2eb",
+				"primary_color_light": "f2f1ea",
 				"_base_color": [
-					0.16666666666666666,
-					0.028225806451612916,
-					0.9725490196078431
+					0.1458333333333334,
+					0.0321285140562249,
+					0.9764705882352941
 				],
 				"secondary_color": "f9f9f4",
 				"_avg_color": [
-					0.05855855855855859,
-					0.1548117154811716,
+					0.06140350877192985,
+					0.15899581589958162,
 					0.9372549019607843
 				],
-				"primary_color_dark": "f2f2eb"
+				"primary_color_dark": "f2f1ea"
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/26877099.jpg",
@@ -226,19 +226,19 @@
 			"vendor_original_price": "",
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "a5a59b",
+				"primary_color_light": "99a0a5",
 				"_base_color": [
-					0.16666666666666666,
-					0.060606060606060705,
-					0.12941176470588237
+					0.5784313725490197,
+					0.0732758620689655,
+					0.9098039215686274
 				],
-				"secondary_color": "f9f9f4",
+				"secondary_color": "f4f7f9",
 				"_avg_color": [
-					0.5897435897435898,
-					0.06632653061224494,
-					0.7686274509803922
+					0.6025641025641025,
+					0.06598984771573609,
+					0.7725490196078432
 				],
-				"primary_color_dark": "7f7f77"
+				"primary_color_dark": "767b7f"
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/26461263.jpg",
@@ -283,7 +283,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 98453,
+				"count": 98455,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -322,17 +322,17 @@
 				"is_dark": true,
 				"primary_color_light": "a5a496",
 				"_base_color": [
-					0.1578947368421053,
-					0.08920187793427238,
-					0.8352941176470589
+					0.15000000000000008,
+					0.09345794392523371,
+					0.8392156862745098
 				],
 				"secondary_color": "f9f9f4",
 				"_avg_color": [
-					0.1439393939393938,
+					0.15151515151515135,
 					0.107843137254902,
 					0.8
 				],
-				"primary_color_dark": "7f7e74"
+				"primary_color_dark": "7f7e73"
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/30254298.jpg",
@@ -377,7 +377,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 8664,
+				"count": 8666,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -404,19 +404,19 @@
 			"vendor_original_price": "",
 			"color_scheme": {
 				"is_dark": false,
-				"primary_color_light": "f2e8d6",
+				"primary_color_light": "f2e7d6",
 				"_base_color": [
-					0.11111111111111112,
+					0.1049382716049383,
 					0.11489361702127655,
 					0.9215686274509803
 				],
 				"secondary_color": "f9f8f4",
 				"_avg_color": [
-					0.10833333333333335,
-					0.08438818565400849,
+					0.11111111111111112,
+					0.0886075949367089,
 					0.9294117647058824
 				],
-				"primary_color_dark": "f2e8d6"
+				"primary_color_dark": "f2e7d6"
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/35493439.jpg",
@@ -461,7 +461,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 75505,
+				"count": 75506,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.1
@@ -495,19 +495,19 @@
 			"vendor_original_price": "",
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "666d72",
+				"primary_color_light": "676d72",
 				"_base_color": [
-					0.5724637681159419,
-					0.10952380952380955,
-					0.8235294117647058
+					0.5714285714285713,
+					0.10096153846153852,
+					0.8156862745098039
 				],
 				"secondary_color": "f4f7f9",
 				"_avg_color": [
-					0.5811965811965812,
+					0.576923076923077,
 					0.40624999999999994,
 					0.3764705882352941
 				],
-				"primary_color_dark": "44484c"
+				"primary_color_dark": "44494c"
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/24540864.jpg",
@@ -552,7 +552,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 91742,
+				"count": 91749,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -588,19 +588,19 @@
 			"vendor_original_price": "",
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "72725b",
+				"primary_color_light": "725b5b",
 				"_base_color": [
-					0.16666666666666666,
+					0,
 					0.2,
 					0.0196078431372549
 				],
-				"secondary_color": "f9f9f4",
+				"secondary_color": "f9f4f4",
 				"_avg_color": [
 					0,
-					0,
-					0.027450980392156862
+					0.125,
+					0.03137254901960784
 				],
-				"primary_color_dark": "4c4c3d"
+				"primary_color_dark": "4c3d3d"
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/20421947.jpg",
@@ -645,7 +645,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 102163,
+				"count": 102168,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -679,11 +679,11 @@
 			"vendor_original_price": "",
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "726454",
+				"primary_color_light": "726352",
 				"_base_color": [
-					0.08490566037735847,
-					0.26108374384236444,
-					0.796078431372549
+					0.08620689655172409,
+					0.28155339805825236,
+					0.807843137254902
 				],
 				"secondary_color": "f9f7f4",
 				"_avg_color": [
@@ -691,7 +691,7 @@
 					0.2608695652173913,
 					0.1803921568627451
 				],
-				"primary_color_dark": "4c4238"
+				"primary_color_dark": "4c4236"
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/30475767.jpg",
@@ -736,7 +736,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 912174,
+				"count": 912199,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -829,7 +829,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 15924,
+				"count": 15925,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -916,7 +916,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 146837,
+				"count": 146843,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -952,19 +952,19 @@
 			"vendor_original_price": "",
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "a55c48",
+				"primary_color_light": "a55b47",
 				"_base_color": [
-					0.03561253561253561,
-					0.5625,
+					0.03531073446327684,
+					0.5673076923076923,
 					0.8156862745098039
 				],
 				"secondary_color": "f9f5f4",
 				"_avg_color": [
-					0.03846153846153847,
-					0.5170454545454546,
+					0.037037037037037035,
+					0.5113636363636364,
 					0.6901960784313725
 				],
-				"primary_color_dark": "7f4737"
+				"primary_color_dark": "7f4637"
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/34998019.jpg",
