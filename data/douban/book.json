@@ -20,7 +20,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 69653,
+				"count": 69655,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -283,7 +283,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 98491,
+				"count": 98492,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -461,7 +461,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 75531,
+				"count": 75532,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.1
@@ -474,14 +474,7 @@
 				"large": "https://img1.doubanio.com/view/subject/l/public/s26710519.jpg",
 				"normal": "https://img1.doubanio.com/view/subject/m/public/s26710519.jpg"
 			},
-			"honor_infos": [
-				{
-					"kind": "book",
-					"uri": "douban://douban.com/subject_collection/ECWQ6BC2I?type=rank&category=book&rank_type=year",
-					"rank": 1,
-					"title": "2023年出版10周年图书"
-				}
-			],
+			"honor_infos": [],
 			"other_versions_count": 10,
 			"is_show": false,
 			"vendor_icons": [],
@@ -552,7 +545,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 91852,
+				"count": 91854,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -645,7 +638,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 102227,
+				"count": 102230,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -736,7 +729,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 912647,
+				"count": 912662,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -829,7 +822,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 15942,
+				"count": 15945,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -916,7 +909,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 146986,
+				"count": 146991,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
