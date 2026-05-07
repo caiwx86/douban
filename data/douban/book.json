@@ -72,7 +72,7 @@
 				"2021-3"
 			],
 			"rating": {
-				"count": 69839,
+				"count": 69841,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -305,7 +305,7 @@
 			},
 			"controversy_reason": "",
 			"cover_url": "https://dou.img.lithub.cc/book/30254298.jpg",
-			"has_ebook": false,
+			"has_ebook": true,
 			"honor_infos": [
 				{
 					"kind": "book",
@@ -335,7 +335,7 @@
 				"2018-7"
 			],
 			"rating": {
-				"count": 98639,
+				"count": 98640,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -346,7 +346,10 @@
 			"type": "book",
 			"uri": "douban://douban.com/book/30254298",
 			"url": "https://book.douban.com/subject/30254298/",
-			"vendor_icons": [],
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
 			"vendor_original_price": "",
 			"vendor_sale_price": ""
 		},
@@ -419,7 +422,7 @@
 				"2021-6"
 			],
 			"rating": {
-				"count": 8717,
+				"count": 8718,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -571,7 +574,7 @@
 			},
 			"controversy_reason": "",
 			"cover_url": "https://dou.img.lithub.cc/book/20421947.jpg",
-			"has_ebook": false,
+			"has_ebook": true,
 			"honor_infos": [
 				{
 					"kind": "book",
@@ -601,7 +604,7 @@
 				"2012-11-1"
 			],
 			"rating": {
-				"count": 92206,
+				"count": 92207,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -612,7 +615,9 @@
 			"type": "book",
 			"uri": "douban://douban.com/book/20421947",
 			"url": "https://book.douban.com/subject/20421947/",
-			"vendor_icons": [],
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
 			"vendor_original_price": "",
 			"vendor_sale_price": ""
 		},
@@ -783,7 +788,7 @@
 				"2012-8"
 			],
 			"rating": {
-				"count": 914182,
+				"count": 914191,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -963,7 +968,7 @@
 				"2020-6"
 			],
 			"rating": {
-				"count": 147479,
+				"count": 147481,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
