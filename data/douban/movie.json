@@ -844,7 +844,7 @@
 				"2023-10-27(印度)"
 			],
 			"rating": {
-				"count": 21302,
+				"count": 21304,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -1063,7 +1063,7 @@
 				"2011-04-14(中国大陆)"
 			],
 			"rating": {
-				"count": 24143,
+				"count": 24144,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.6
@@ -1180,7 +1180,7 @@
 				"2011-11-11(中国大陆)"
 			],
 			"rating": {
-				"count": 24875,
+				"count": 24876,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.7
@@ -1194,8 +1194,8 @@
 			"url": "https://movie.douban.com/subject/10728463/",
 			"vendor_desc": "",
 			"vendor_icons": [
-				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png",
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png",
+				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
 			],
 			"year": "2011"
 		},
@@ -1358,7 +1358,7 @@
 				"2023-06-16(美国/中国大陆)"
 			],
 			"rating": {
-				"count": 172144,
+				"count": 172148,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.1
@@ -1372,9 +1372,9 @@
 			"url": "https://movie.douban.com/subject/35901878/",
 			"vendor_desc": "",
 			"vendor_icons": [
-				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
 				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
-				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
+				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
 			],
 			"year": "2023"
 		},
@@ -1498,7 +1498,7 @@
 				"2018-08-03(中国大陆)"
 			],
 			"rating": {
-				"count": 899527,
+				"count": 899535,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -1613,7 +1613,7 @@
 				"2021-06-11(中国大陆)"
 			],
 			"rating": {
-				"count": 76205,
+				"count": 76206,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.8
@@ -1627,9 +1627,9 @@
 			"url": "https://movie.douban.com/subject/30401194/",
 			"vendor_desc": "",
 			"vendor_icons": [
-				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
+				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
+				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
 			],
 			"year": "2019"
 		},
@@ -1769,7 +1769,7 @@
 				"2017-12-01(中国大陆)"
 			],
 			"rating": {
-				"count": 80370,
+				"count": 80371,
 				"max": 10,
 				"star_count": 3,
 				"value": 5.5
@@ -1785,7 +1785,7 @@
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
 				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
+				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
 			],
 			"year": "2017"
 		},
@@ -1877,7 +1877,7 @@
 				"2019-01-18(中国大陆)"
 			],
 			"rating": {
-				"count": 125280,
+				"count": 125281,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.9
@@ -2004,7 +2004,7 @@
 				"2018-08-04(中国大陆)"
 			],
 			"rating": {
-				"count": 32921,
+				"count": 32922,
 				"max": 10,
 				"star_count": 3,
 				"value": 5.6
@@ -2018,8 +2018,8 @@
 			"url": "https://movie.douban.com/subject/30156898/",
 			"vendor_desc": "",
 			"vendor_icons": [
-				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png",
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png",
+				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
 			],
 			"year": "2018"
 		},
@@ -2209,7 +2209,7 @@
 				"2003-11-08(日本)"
 			],
 			"rating": {
-				"count": 294110,
+				"count": 294114,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -2507,7 +2507,7 @@
 				"2023-07-20(中国大陆)"
 			],
 			"rating": {
-				"count": 1291384,
+				"count": 1291391,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -2771,7 +2771,7 @@
 				"2023-12-01(中国大陆)"
 			],
 			"rating": {
-				"count": 72461,
+				"count": 72462,
 				"max": 10,
 				"star_count": 3,
 				"value": 6.2
@@ -2787,7 +2787,7 @@
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
 				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
-				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
 			],
 			"year": "2023"
 		},
@@ -2909,7 +2909,7 @@
 				"2023-09-28(中国大陆)"
 			],
 			"rating": {
-				"count": 88916,
+				"count": 88919,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.8
@@ -2923,8 +2923,8 @@
 			"url": "https://movie.douban.com/subject/35882742/",
 			"vendor_desc": "",
 			"vendor_icons": [
-				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
+				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
 				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
 			],
 			"year": "2023"
@@ -3041,8 +3041,8 @@
 			"url": "https://movie.douban.com/subject/35448384/",
 			"vendor_desc": "",
 			"vendor_icons": [
-				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
+				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
 				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
 			],
 			"year": "2023"
@@ -3511,9 +3511,9 @@
 			"url": "https://movie.douban.com/subject/30140571/",
 			"vendor_desc": "",
 			"vendor_icons": [
-				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
+				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
+				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
 			],
 			"year": "2018"
 		},
@@ -3821,7 +3821,7 @@
 				"2015-06-26(中国大陆)"
 			],
 			"rating": {
-				"count": 84454,
+				"count": 84455,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -3837,7 +3837,7 @@
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
+				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
 			],
 			"year": "2015"
 		},
@@ -4094,42 +4094,11 @@
 			"star_count": 5,
 			"value": 5
 		},
-		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/movie/30409801 来自@豆瓣App",
+		"sharing_text": "我的评分：★★★★★  来自@豆瓣App",
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/30409801/interest/4006329517",
 		"status": "done",
 		"subject": {
-			"actors": [
-				{
-					"name": "赵小双"
-				},
-				{
-					"name": "常蓉珊"
-				},
-				{
-					"name": "曹云图"
-				},
-				{
-					"name": "王敏纳"
-				},
-				{
-					"name": "李兰陵"
-				},
-				{
-					"name": "李轻扬"
-				},
-				{
-					"name": "藤新"
-				},
-				{
-					"name": "姜英俊"
-				},
-				{
-					"name": "郝祥海"
-				},
-				{
-					"name": "图特哈蒙"
-				}
-			],
+			"actors": [],
 			"album_no_interact": false,
 			"article_intros": [],
 			"card_subtitle": "2020 / 中国大陆 / 动画 奇幻 / 董易 / 赵小双 常蓉珊",
@@ -4151,11 +4120,7 @@
 			},
 			"controversy_reason": "",
 			"cover_url": "https://dou.img.lithub.cc/movie/30409801.jpg",
-			"directors": [
-				{
-					"name": "董易"
-				}
-			],
+			"directors": [],
 			"genres": [
 				"动画",
 				"奇幻"
@@ -4174,13 +4139,13 @@
 				"2020-04-25(中国大陆)"
 			],
 			"rating": {
-				"count": 32967,
+				"count": 32968,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
 			},
 			"release_date": null,
-			"sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/30409801",
+			"sharing_url": "",
 			"subtype": "tv",
 			"title": "百妖谱 第一季",
 			"type": "tv",
@@ -4278,7 +4243,7 @@
 				"2019-07-21(中国大陆)"
 			],
 			"rating": {
-				"count": 19677,
+				"count": 19678,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -4400,7 +4365,7 @@
 				"2023-01-01(中国大陆)"
 			],
 			"rating": {
-				"count": 286259,
+				"count": 286261,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -4523,7 +4488,7 @@
 				"2018-04-25(中国大陆)"
 			],
 			"rating": {
-				"count": 129663,
+				"count": 129666,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -4538,8 +4503,8 @@
 			"vendor_desc": "",
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png",
-				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
+				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png",
+				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
 			],
 			"year": "2018"
 		},
@@ -4800,7 +4765,7 @@
 				"2021-04-21(中国大陆)"
 			],
 			"rating": {
-				"count": 23114,
+				"count": 23115,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -4925,7 +4890,7 @@
 				"2023-07-26(中国大陆)"
 			],
 			"rating": {
-				"count": 53756,
+				"count": 53759,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -5044,7 +5009,7 @@
 				"2020-07-26(中国大陆)"
 			],
 			"rating": {
-				"count": 152193,
+				"count": 152195,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -5143,7 +5108,7 @@
 				"2021-04-30(中国大陆)"
 			],
 			"rating": {
-				"count": 89736,
+				"count": 89737,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -5410,7 +5375,7 @@
 				"2022-04-14(中国大陆)"
 			],
 			"rating": {
-				"count": 87939,
+				"count": 87940,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -5543,7 +5508,7 @@
 				"2013-05-31(日本)"
 			],
 			"rating": {
-				"count": 372405,
+				"count": 372408,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -5669,7 +5634,7 @@
 				"2023-03-24(中国大陆)"
 			],
 			"rating": {
-				"count": 504601,
+				"count": 504606,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.2
@@ -5683,9 +5648,9 @@
 			"url": "https://movie.douban.com/subject/35371261/",
 			"vendor_desc": "",
 			"vendor_icons": [
-				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
+				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
+				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
 			],
 			"year": "2022"
 		},
@@ -5824,7 +5789,7 @@
 				"2007-03-03(日本)"
 			],
 			"rating": {
-				"count": 620517,
+				"count": 620521,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -5956,7 +5921,7 @@
 				"2019-11-01(中国大陆)"
 			],
 			"rating": {
-				"count": 473520,
+				"count": 473524,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7
@@ -5970,9 +5935,9 @@
 			"url": "https://movie.douban.com/subject/30402296/",
 			"vendor_desc": "",
 			"vendor_icons": [
-				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
 				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
+				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
+				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
 			],
 			"year": "2019"
 		},
@@ -6151,7 +6116,7 @@
 				"2023-11-17(中国大陆)"
 			],
 			"rating": {
-				"count": 295837,
+				"count": 295842,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -6279,7 +6244,7 @@
 				"2020-12-31(中国大陆)"
 			],
 			"rating": {
-				"count": 579709,
+				"count": 579720,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -6398,7 +6363,7 @@
 				"2024-04-30(中国大陆)"
 			],
 			"rating": {
-				"count": 1294286,
+				"count": 1294310,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -6413,8 +6378,8 @@
 			"vendor_desc": "",
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png",
-				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png",
+				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
 			],
 			"year": "2004"
 		},
@@ -6524,7 +6489,7 @@
 				"1992-05-01(中国大陆)"
 			],
 			"rating": {
-				"count": 1011005,
+				"count": 1011016,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -6681,7 +6646,7 @@
 				"2018-12-14(中国大陆)"
 			],
 			"rating": {
-				"count": 1413331,
+				"count": 1413344,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -6834,7 +6799,7 @@
 				"2011-10-13(日本)"
 			],
 			"rating": {
-				"count": 54068,
+				"count": 54069,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -6849,8 +6814,8 @@
 			"vendor_desc": "",
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png",
-				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
+				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png",
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
 			],
 			"year": "2011"
 		},
@@ -6920,7 +6885,7 @@
 				"2015-11-16(中国大陆)"
 			],
 			"rating": {
-				"count": 21111,
+				"count": 21112,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -7064,7 +7029,7 @@
 				"2015-12-31(中国大陆)"
 			],
 			"rating": {
-				"count": 956691,
+				"count": 956698,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -7080,7 +7045,7 @@
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
+				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
 			],
 			"year": "2015"
 		},
@@ -7300,7 +7265,7 @@
 				"2019-11-08(中国大陆)"
 			],
 			"rating": {
-				"count": 224534,
+				"count": 224535,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.5
@@ -7316,7 +7281,7 @@
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
+				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
 			],
 			"year": "2019"
 		},
@@ -7446,7 +7411,7 @@
 				"2012-10-10(中国大陆)"
 			],
 			"rating": {
-				"count": 57908,
+				"count": 57909,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -7642,7 +7607,7 @@
 				"2021-08-27(中国大陆)"
 			],
 			"rating": {
-				"count": 761513,
+				"count": 761523,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -7658,7 +7623,7 @@
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
 				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
-				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
 			],
 			"year": "2021"
 		},
@@ -7754,7 +7719,7 @@
 				"1999(中国大陆)"
 			],
 			"rating": {
-				"count": 152816,
+				"count": 152819,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -7904,7 +7869,7 @@
 				"1982"
 			],
 			"rating": {
-				"count": 113904,
+				"count": 113909,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -8049,7 +8014,7 @@
 				"2020-07-15(韩国)"
 			],
 			"rating": {
-				"count": 141963,
+				"count": 141967,
 				"max": 10,
 				"star_count": 2.5,
 				"value": 5.1
@@ -8182,7 +8147,7 @@
 				"2016-05-13(戛纳电影节)"
 			],
 			"rating": {
-				"count": 1357298,
+				"count": 1357315,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -8387,7 +8352,7 @@
 				"2019-03-07(中国大陆)"
 			],
 			"rating": {
-				"count": 207378,
+				"count": 207382,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -8726,7 +8691,7 @@
 				"2016-04-28(中国大陆)"
 			],
 			"rating": {
-				"count": 61918,
+				"count": 61919,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -8833,7 +8798,7 @@
 				"2019-07-13(中国大陆)"
 			],
 			"rating": {
-				"count": 119252,
+				"count": 119255,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -8947,7 +8912,7 @@
 				"2023-06-22(中国大陆)"
 			],
 			"rating": {
-				"count": 245939,
+				"count": 245946,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -9088,7 +9053,7 @@
 				"2016-12-02(中国大陆)"
 			],
 			"rating": {
-				"count": 1601766,
+				"count": 1601789,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -9102,9 +9067,9 @@
 			"url": "https://movie.douban.com/subject/26683290/",
 			"vendor_desc": "",
 			"vendor_icons": [
-				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
 				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
-				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
+				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
+				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
 			],
 			"year": "2016"
 		},
@@ -9204,7 +9169,7 @@
 				"2019-07-26(中国大陆)"
 			],
 			"rating": {
-				"count": 2080977,
+				"count": 2080986,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -9218,8 +9183,8 @@
 			"url": "https://movie.douban.com/subject/26794435/",
 			"vendor_desc": "",
 			"vendor_icons": [
-				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
 				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
+				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
 				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
 			],
 			"year": "2019"
@@ -9492,7 +9457,7 @@
 				"2019-01-11(中国大陆)"
 			],
 			"rating": {
-				"count": 825817,
+				"count": 825820,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -9506,8 +9471,8 @@
 			"url": "https://movie.douban.com/subject/30331149/",
 			"vendor_desc": "",
 			"vendor_icons": [
-				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
+				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
 				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
 			],
 			"year": "2019"
@@ -9640,7 +9605,7 @@
 				"2018-01-12(日本)"
 			],
 			"rating": {
-				"count": 758454,
+				"count": 758462,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -9893,7 +9858,7 @@
 				"2023-07-14(中国大陆)"
 			],
 			"rating": {
-				"count": 156533,
+				"count": 156535,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -10037,7 +10002,7 @@
 				"2016-09-29(中国大陆)"
 			],
 			"rating": {
-				"count": 374553,
+				"count": 374555,
 				"max": 10,
 				"star_count": 2.5,
 				"value": 5.3
@@ -10051,9 +10016,9 @@
 			"url": "https://movie.douban.com/subject/26280528/",
 			"vendor_desc": "",
 			"vendor_icons": [
-				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
+				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
+				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
 			],
 			"year": "2016"
 		},
@@ -10174,7 +10139,7 @@
 				"2003-04-11(中国大陆)"
 			],
 			"rating": {
-				"count": 1213884,
+				"count": 1213905,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -10297,7 +10262,7 @@
 				"2019-04-29(中国大陆)"
 			],
 			"rating": {
-				"count": 1164330,
+				"count": 1164341,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -10311,9 +10276,9 @@
 			"url": "https://movie.douban.com/subject/30170448/",
 			"vendor_desc": "",
 			"vendor_icons": [
-				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
 				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
-				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
+				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
+				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
 			],
 			"year": "2018"
 		},
@@ -10448,7 +10413,7 @@
 				"2018-07-05(中国大陆)"
 			],
 			"rating": {
-				"count": 2354288,
+				"count": 2354315,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -10462,9 +10427,9 @@
 			"url": "https://movie.douban.com/subject/26752088/",
 			"vendor_desc": "",
 			"vendor_icons": [
-				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
 				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
-				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
+				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
+				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
 			],
 			"year": "2018"
 		},
@@ -10615,7 +10580,7 @@
 				"2017-11-24(中国大陆)"
 			],
 			"rating": {
-				"count": 1993226,
+				"count": 1993259,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -10629,9 +10594,9 @@
 			"url": "https://movie.douban.com/subject/20495023/",
 			"vendor_desc": "",
 			"vendor_icons": [
-				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
+				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
 			],
 			"year": "2017"
 		},
@@ -10656,7 +10621,53 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1849031/interest/3989236726",
 		"status": "done",
 		"subject": {
-			"actors": [],
+			"actors": [
+				{
+					"name": "威尔·史密斯"
+				},
+				{
+					"name": "贾登·史密斯"
+				},
+				{
+					"name": "坦迪·牛顿"
+				},
+				{
+					"name": "布莱恩·豪威 "
+				},
+				{
+					"name": "詹姆斯·凯伦"
+				},
+				{
+					"name": "丹·卡斯泰兰尼塔"
+				},
+				{
+					"name": "柯特·富勒"
+				},
+				{
+					"name": "塔卡尤·费舍尔"
+				},
+				{
+					"name": "凯文·韦斯特"
+				},
+				{
+					"name": "乔治·张"
+				},
+				{
+					"name": "戴维·迈克尔·西尔弗曼"
+				},
+				{
+					"name": "多米尼克·博夫"
+				},
+				{
+					"name": "杰弗·卡伦"
+				},
+				{
+					"name": "乔伊芙·拉文"
+				},
+				{
+					"name": "斯科特·克拉斯"
+				}
+			],
 			"album_no_interact": false,
 			"article_intros": [],
 			"card_subtitle": "2006 / 美国 / 剧情 家庭 传记 / 加布里埃莱·穆奇诺 / 威尔·史密斯 贾登·史密斯",
@@ -10678,7 +10689,11 @@
 			},
 			"controversy_reason": "",
 			"cover_url": "https://dou.img.lithub.cc/movie/1849031.jpg",
-			"directors": [],
+			"directors": [
+				{
+					"name": "加布里埃莱·穆奇诺"
+				}
+			],
 			"genres": [
 				"剧情",
 				"家庭",
@@ -10705,7 +10720,7 @@
 				"2008-01-17(中国大陆)"
 			],
 			"rating": {
-				"count": 1690428,
+				"count": 1690449,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -10720,8 +10735,8 @@
 			"vendor_desc": "",
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png",
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png",
+				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
 			],
 			"year": "2006"
 		},
@@ -10847,7 +10862,7 @@
 				"2011-11-02(法国)"
 			],
 			"rating": {
-				"count": 1297976,
+				"count": 1297995,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -10861,8 +10876,8 @@
 			"url": "https://movie.douban.com/subject/6786002/",
 			"vendor_desc": "",
 			"vendor_icons": [
-				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
+				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
 				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
 			],
 			"year": "2011"
@@ -11047,7 +11062,7 @@
 				"2016-03-04(中国大陆)"
 			],
 			"rating": {
-				"count": 2323720,
+				"count": 2323753,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -11061,9 +11076,9 @@
 			"url": "https://movie.douban.com/subject/25662329/",
 			"vendor_desc": "",
 			"vendor_icons": [
-				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
 				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
-				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
+				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
 			],
 			"year": "2016"
 		},
@@ -11166,7 +11181,7 @@
 				"2011-12-08(中国大陆)"
 			],
 			"rating": {
-				"count": 2080965,
+				"count": 2080982,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -11271,7 +11286,7 @@
 				"1998-06-05(美国)"
 			],
 			"rating": {
-				"count": 2022425,
+				"count": 2022454,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -11287,7 +11302,7 @@
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
+				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
 			],
 			"year": "1998"
 		},
@@ -11408,7 +11423,7 @@
 				"2019-06-21(中国大陆)"
 			],
 			"rating": {
-				"count": 2540282,
+				"count": 2540321,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -11547,7 +11562,7 @@
 				"2024-11-01(中国大陆)"
 			],
 			"rating": {
-				"count": 2554820,
+				"count": 2554842,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -11563,7 +11578,7 @@
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
 			],
 			"year": "1994"
 		},
@@ -11764,7 +11779,7 @@
 				"1994-06-23(洛杉矶首映)"
 			],
 			"rating": {
-				"count": 2433189,
+				"count": 2433217,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -11933,7 +11948,7 @@
 				"1994-09-10(多伦多电影节)"
 			],
 			"rating": {
-				"count": 3288681,
+				"count": 3288722,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.7
@@ -12076,7 +12091,7 @@
 				"2018-03-30(中国大陆)"
 			],
 			"rating": {
-				"count": 1524301,
+				"count": 1524321,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -12092,7 +12107,7 @@
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
+				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
 			],
 			"year": "2018"
 		},
@@ -12248,7 +12263,7 @@
 				"2017-09-29(中国大陆)"
 			],
 			"rating": {
-				"count": 411978,
+				"count": 411979,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.6
@@ -12438,7 +12453,7 @@
 				"2023-03-10(中国大陆)"
 			],
 			"rating": {
-				"count": 546526,
+				"count": 546531,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -12452,9 +12467,9 @@
 			"url": "https://movie.douban.com/subject/35457272/",
 			"vendor_desc": "",
 			"vendor_icons": [
-				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img3.doubanio.com/f/frodo/6fa5caade3ca480ccd95f455ee4d195ee342eb90/pics/vendors/youku.png"
+				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
+				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
 			],
 			"year": "2022"
 		},
@@ -12578,7 +12593,7 @@
 				"1994-06-30(中国香港)"
 			],
 			"rating": {
-				"count": 972155,
+				"count": 972173,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -13171,7 +13186,7 @@
 				"2023-08-30(中国大陆)"
 			],
 			"rating": {
-				"count": 826928,
+				"count": 826938,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -13306,9 +13321,9 @@
 			"url": "https://movie.douban.com/subject/26649682/",
 			"vendor_desc": "",
 			"vendor_icons": [
-				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
 				"https://img2.doubanio.com/f/frodo/8e1b7f8b48804cf759fc411e75d62c5ffd4f8f42/pics/vendors/migu_video.png",
-				"https://img9.doubanio.com/f/frodo/6c7b857e6b2255201e73bf83732d95d572f3f9f7/pics/vendors/iqiyi.png"
+				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
 			],
 			"year": "2023"
 		},
