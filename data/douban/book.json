@@ -72,7 +72,7 @@
 				"2021-3"
 			],
 			"rating": {
-				"count": 70125,
+				"count": 70127,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -181,6 +181,90 @@
 	{
 		"charts": [],
 		"comment": "",
+		"create_time": "2023-11-20 19:54:46",
+		"id": 3996927723,
+		"is_editable": false,
+		"is_private": false,
+		"platforms": [],
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 5,
+			"value": 5
+		},
+		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/26461263 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/26461263/interest/3996927723",
+		"status": "done",
+		"subject": {
+			"article_intros": [],
+			"author": [
+				"轩弦"
+			],
+			"book_subtitle": "",
+			"buy_more_uri": "",
+			"card_subtitle": "轩弦 / 2007 / 内蒙古人民出版社",
+			"color_scheme": {
+				"_base_color": [
+					0.5784313725490197,
+					0.0732758620689655,
+					0.9098039215686274
+				],
+				"_avg_color": [
+					0.6025641025641025,
+					0.06598984771573609,
+					0.7725490196078432
+				],
+				"primary_color_light": "99a0a5",
+				"primary_color_dark": "767b7f",
+				"secondary_color": "f4f7f9",
+				"is_dark": true
+			},
+			"controversy_reason": "",
+			"cover_url": "https://dou.img.lithub.cc/book/26461263.jpg",
+			"has_ebook": false,
+			"honor_infos": [],
+			"id": "26461263",
+			"intro": "如果你的女朋友有着美丽的容貌、雪白的肌肤和姣好的身材……\n如果你的女朋友冰雪聪明、温柔体贴、不乱花钱、对你的照顾无微不至……\n如果你的女朋友除你以外不曾爱过其他男人，对你一心一意、死心塌地……\nStop！这世界会有这样完美的女朋友吗？\n或者你不相信，但我的女友真的如此完美。\n然而在完美背后，却隐藏着一个我所无法接受的大秘密……",
+			"is_released": true,
+			"is_show": false,
+			"min_sale_price": "",
+			"null_rating_reason": "",
+			"other_versions_count": 0,
+			"pages": [
+				"300"
+			],
+			"pic": {
+				"large": "https://img1.doubanio.com/view/subject/l/public/s28258998.jpg",
+				"normal": "https://img1.doubanio.com/view/subject/m/public/s28258998.jpg"
+			},
+			"press": [
+				"内蒙古人民出版社"
+			],
+			"pubdate": [
+				"2007-10-1"
+			],
+			"rating": {
+				"count": 55,
+				"max": 10,
+				"star_count": 4.5,
+				"value": 9
+			},
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/26461263",
+			"subtype": "book",
+			"title": "我的完美女友何雨晴",
+			"type": "book",
+			"uri": "douban://douban.com/book/26461263",
+			"url": "https://book.douban.com/subject/26461263/",
+			"vendor_icons": [],
+			"vendor_original_price": "",
+			"vendor_sale_price": ""
+		},
+		"tags": [],
+		"vote_count": 0
+	},
+	{
+		"charts": [],
+		"comment": "",
 		"create_time": "2023-11-13 00:57:23",
 		"id": 3989727690,
 		"is_editable": false,
@@ -251,10 +335,10 @@
 				"2018-7"
 			],
 			"rating": {
-				"count": 98878,
+				"count": 98879,
 				"max": 10,
 				"star_count": 3.5,
-				"value": 7.4
+				"value": 7.3
 			},
 			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/30254298",
 			"subtype": "book",
@@ -429,7 +513,7 @@
 				"2013-6"
 			],
 			"rating": {
-				"count": 75784,
+				"count": 75786,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.1
@@ -490,7 +574,7 @@
 			},
 			"controversy_reason": "",
 			"cover_url": "https://dou.img.lithub.cc/book/20421947.jpg",
-			"has_ebook": true,
+			"has_ebook": false,
 			"honor_infos": [
 				{
 					"kind": "book",
@@ -520,7 +604,7 @@
 				"2012-11-1"
 			],
 			"rating": {
-				"count": 92625,
+				"count": 92624,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -531,9 +615,98 @@
 			"type": "book",
 			"uri": "douban://douban.com/book/20421947",
 			"url": "https://book.douban.com/subject/20421947/",
-			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			"vendor_icons": [],
+			"vendor_original_price": "",
+			"vendor_sale_price": ""
+		},
+		"tags": [],
+		"vote_count": 0
+	},
+	{
+		"charts": [],
+		"comment": "",
+		"create_time": "2023-11-13 00:33:45",
+		"id": 3989707481,
+		"is_editable": false,
+		"is_private": false,
+		"platforms": [],
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 4,
+			"value": 4
+		},
+		"sharing_text": "我的评分：★★★★ https://www.douban.com/doubanapp/dispatch/book/30475767 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/30475767/interest/3989707481",
+		"status": "done",
+		"subject": {
+			"article_intros": [],
+			"author": [
+				"麦家"
 			],
+			"book_subtitle": "",
+			"buy_more_uri": "douban://douban.com/book/30475767/vendors_douban",
+			"card_subtitle": "麦家 / 2019 / 北京十月文艺出版社",
+			"color_scheme": {
+				"_base_color": [
+					0.08620689655172409,
+					0.28155339805825236,
+					0.807843137254902
+				],
+				"_avg_color": [
+					0.08333333333333333,
+					0.2608695652173913,
+					0.1803921568627451
+				],
+				"primary_color_light": "726352",
+				"primary_color_dark": "4c4236",
+				"secondary_color": "f9f7f4",
+				"is_dark": true
+			},
+			"controversy_reason": "",
+			"cover_url": "https://dou.img.lithub.cc/book/30475767.jpg",
+			"has_ebook": false,
+			"honor_infos": [
+				{
+					"kind": "book",
+					"rank": 9,
+					"title": "2019年度最受关注图书",
+					"uri": "douban://douban.com/subject_collection/EC4IHYWQY?type=rank&category=book&rank_type=year"
+				}
+			],
+			"id": "30475767",
+			"intro": "★豆瓣2019年度书单·中国文学（小说类） 第一名\n·\n“他是全村最出奇古怪的人，古怪的名目要扳着指头一个一个数：\n第一，他当过国民党军队的上校，是革命群众要斗争的对象。但大家一边斗争他，一边又巴结讨好他，家里出什么事都去找他拿主意。\n第二，都说他是太监，可我们小孩子经常偷看他那个地方，好像还是满当当的，有模有样的。\n第三， 他向来不出工，不干农活，天天空在家里看报纸，嗑瓜子，可日子过得比谁家都舒坦。还像养孩子一样养着一对猫，宝贝得不得了，简直神经病！”\n·\n《人生海海》讲述了一个人在时代中穿行缠斗的一生，离奇的故事里藏着让人叹息的人生况味,既有日常滋生的残酷，也有时间带来的仁慈。\n=========\n人生如海，总有阴冷暴虐的水域，也有轻柔温暖的洋流。\n·\n“生活摧残了他，但也让他穿越了生死恐惧和世态炎凉， 变得大彻大悟， 笑傲江湖。 ”\n他知道怎样在风光处耀目，也知道怎么在卑贱中自处。\n·\n★麦家强力超越之作·在一个最不可描述之处解密人性的荒唐与高尚\n★小说的迷人之 处就在于它能把不存在的人物写得仿佛是我们的朋友，麦家的《人生海海》就是这么迷人。——莫言\n★麦家的身上永远有一种旁观者的气质，一旦他开了口，他的语言是那么的精准。他的细节是那么的触动，他的思想是那么的深刻。如果用一句诗来形容我读完《人生海海》的感受，那就是“回首向来萧瑟处，也无风雨也无晴”。——董卿\n★我想写的是在绝望中诞生的幸运，在艰苦中卓绝的道德。我要另立山头，回到童年，回去故乡，去破译人心和人性的密码。——麦家\n★《人生海海》是麦家老师跨越了自己的第一座高峰，向内心深处的文学攀登下一座高峰的大作。——高晓松\n=========\n★“人生海海，敢死不叫勇气，活着才需要勇气。你要替我记住这句话，我要不遇到它，死几回都不够。”\n★人生海海，潮落之后是潮起。\n你说那是消磨、笑柄、罪过，但那就是我的英雄主义。",
+			"is_released": true,
+			"is_show": false,
+			"min_sale_price": "¥75.7",
+			"null_rating_reason": "",
+			"other_versions_count": 4,
+			"pages": [
+				"345"
+			],
+			"pic": {
+				"large": "https://img3.doubanio.com/view/subject/l/public/s32266692.jpg",
+				"normal": "https://img3.doubanio.com/view/subject/m/public/s32266692.jpg"
+			},
+			"press": [
+				"北京十月文艺出版社"
+			],
+			"pubdate": [
+				"2019-4"
+			],
+			"rating": {
+				"count": 102712,
+				"max": 10,
+				"star_count": 4,
+				"value": 7.9
+			},
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/30475767",
+			"subtype": "book",
+			"title": "人生海海",
+			"type": "book",
+			"uri": "douban://douban.com/book/30475767",
+			"url": "https://book.douban.com/subject/30475767/",
+			"vendor_icons": [],
 			"vendor_original_price": "",
 			"vendor_sale_price": ""
 		},
@@ -613,7 +786,7 @@
 				"2012-8"
 			],
 			"rating": {
-				"count": 916335,
+				"count": 916346,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -793,187 +966,7 @@
 				"2020-6"
 			],
 			"rating": {
-				"count": 148085,
-				"max": 10,
-				"star_count": 4.5,
-				"value": 9
-			},
-			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/34998019",
-			"subtype": "book",
-			"title": "秋园",
-			"type": "book",
-			"uri": "douban://douban.com/book/34998019",
-			"url": "https://book.douban.com/subject/34998019/",
-			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
-			],
-			"vendor_original_price": "",
-			"vendor_sale_price": ""
-		},
-		"tags": [],
-		"vote_count": 0
-	},
-	{
-		"charts": [],
-		"comment": "",
-		"create_time": "2023-11-07 23:08:26",
-		"id": 3985090021,
-		"is_editable": false,
-		"is_private": false,
-		"platforms": [],
-		"rating": {
-			"count": 1,
-			"max": 5,
-			"star_count": 5,
-			"value": 5
-		},
-		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/35562179 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/35562179/interest/3985090021",
-		"status": "done",
-		"subject": {
-			"article_intros": [],
-			"author": [
-				"张嘉佳"
-			],
-			"book_subtitle": "",
-			"buy_more_uri": "douban://douban.com/book/35562179/vendors_douban",
-			"card_subtitle": "张嘉佳 / 2021 / 湖南文艺出版社",
-			"color_scheme": {
-				"_base_color": [
-					0.11959876543209876,
-					0.907563025210084,
-					0.9333333333333333
-				],
-				"_avg_color": [
-					0.11627906976744184,
-					0.5352697095435685,
-					0.9450980392156862
-				],
-				"primary_color_light": "a57b0f",
-				"primary_color_dark": "7f5e0b",
-				"secondary_color": "f9f8f4",
-				"is_dark": true
-			},
-			"controversy_reason": "",
-			"cover_url": "https://dou.img.lithub.cc/book/35562179.jpg",
-			"has_ebook": true,
-			"honor_infos": [],
-			"id": "35562179",
-			"intro": "生命的终章，我踏上了一段旅途。开着破烂的面包车，穿越几十座城市，撕开雨天，潜入他乡，尽头是天堂。\n浅蓝的天光，泛紫的云层，路灯嵌进夕阳。山间道路弥漫着一万吨水汽，密林卷来风声，我闯进无止境的夜里。\n她说，天总会亮的。那么，我们一起记录下，凌晨前的人生。\n-\n【推荐语】\n暌违 三年，继《全世界》《云边》之后，张嘉佳2021全新长篇力作。希望这本书能照亮那些在黑夜中走路的人，这世界不停开花，我想放进你心里一朵。\n-\n【名人推荐】\n嘉佳的家乡离南京不远，在南京生活久了，为人为文，就有了浓浓的南京气息。南京人爱吃会吃，爱交朋友，不爱计较，自由散漫的烟火气背后，始终有着飞扬的诗意。这本小说从南京出发，从城南桂花飘香的秋天开始，有一种特别的文艺气质。时至今日，阅读越来越小众，嘉佳的文字依然可以电击很多人，打动很多人。\n——著名作家 叶兆言\n很欣喜看到年轻一代的作家贴近现实的文本表达。小说从一个自身难保的普通人视角展开，撷取了主人公生命中一段既平凡又不凡的旅程。平凡在于不拔高不浮夸，不凡则在于情感层层递进，击穿人心。通篇读来有着一种贴地飞行的浪漫质感。一个认真书写当下生活的写作者，也注定会在这个时代留下自己的印记。\n——茅盾文学奖获奖作家 梁晓声",
-			"is_released": true,
-			"is_show": false,
-			"min_sale_price": "¥24.0",
-			"null_rating_reason": "",
-			"other_versions_count": 0,
-			"pages": [
-				"304"
-			],
-			"pic": {
-				"large": "https://img2.doubanio.com/view/subject/l/public/s33967851.jpg",
-				"normal": "https://img2.doubanio.com/view/subject/m/public/s33967851.jpg"
-			},
-			"press": [
-				"湖南文艺出版社"
-			],
-			"pubdate": [
-				"2021-8"
-			],
-			"rating": {
-				"count": 16109,
-				"max": 10,
-				"star_count": 3.5,
-				"value": 7.4
-			},
-			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/35562179",
-			"subtype": "book",
-			"title": "天堂旅行团",
-			"type": "book",
-			"uri": "douban://douban.com/book/35562179",
-			"url": "https://book.douban.com/subject/35562179/",
-			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
-				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
-			],
-			"vendor_original_price": "",
-			"vendor_sale_price": ""
-		},
-		"tags": [],
-		"vote_count": 0
-	},
-	{
-		"charts": [],
-		"comment": "",
-		"create_time": "2023-11-06 06:46:54",
-		"id": 3983551888,
-		"is_editable": false,
-		"is_private": false,
-		"platforms": [],
-		"rating": {
-			"count": 1,
-			"max": 5,
-			"star_count": 5,
-			"value": 5
-		},
-		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/34998019 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/34998019/interest/3983551888",
-		"status": "done",
-		"subject": {
-			"article_intros": [],
-			"author": [
-				"杨本芬"
-			],
-			"book_subtitle": "",
-			"buy_more_uri": "douban://douban.com/book/34998019/vendors_douban",
-			"card_subtitle": "杨本芬 / 2020 / 北京联合出版公司",
-			"color_scheme": {
-				"_base_color": [
-					0.03531073446327684,
-					0.5673076923076923,
-					0.8156862745098039
-				],
-				"_avg_color": [
-					0.037037037037037035,
-					0.5113636363636364,
-					0.6901960784313725
-				],
-				"primary_color_light": "a55b47",
-				"primary_color_dark": "7f4637",
-				"secondary_color": "f9f5f4",
-				"is_dark": true
-			},
-			"controversy_reason": "",
-			"cover_url": "https://dou.img.lithub.cc/book/34998019.jpg",
-			"has_ebook": true,
-			"honor_infos": [
-				{
-					"kind": "book",
-					"rank": 58,
-					"title": "豆瓣图书Top250",
-					"uri": "douban://douban.com/subject_collection/book_top250"
-				}
-			],
-			"id": "34998019",
-			"intro": "听八旬奶奶讲述她和妈妈的故事。\n1914年，世上有了“秋园”这个人。1918年，汉语有了“她”这个字。秋园，她来过，挣扎过，绝望过，幸福过。今天，她80岁的女儿，把普普通通的她，讲给世界听。\n“我写了一位普通中国女性一生的故事，写了我们一家人如何像水中的浮木般挣扎求生，写了中南腹地那些乡间人物的生生死死。我知道自己写出的故事如同一滴水，最终将汇入人类历史的长河。”",
-			"is_released": true,
-			"is_show": false,
-			"min_sale_price": "¥50.9",
-			"null_rating_reason": "",
-			"other_versions_count": 1,
-			"pages": [
-				"280"
-			],
-			"pic": {
-				"large": "https://img1.doubanio.com/view/subject/l/public/s33640730.jpg",
-				"normal": "https://img1.doubanio.com/view/subject/m/public/s33640730.jpg"
-			},
-			"press": [
-				"北京联合出版公司"
-			],
-			"pubdate": [
-				"2020-6"
-			],
-			"rating": {
-				"count": 148085,
+				"count": 148089,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
