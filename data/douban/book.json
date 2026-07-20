@@ -72,7 +72,7 @@
 				"2021-3"
 			],
 			"rating": {
-				"count": 70606,
+				"count": 70608,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -335,7 +335,7 @@
 				"2018-7"
 			],
 			"rating": {
-				"count": 99227,
+				"count": 99230,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -463,7 +463,7 @@
 				"余华"
 			],
 			"book_subtitle": "",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/24540864/vendors_douban",
 			"card_subtitle": "余华 / 2013 / 新星出版社",
 			"color_scheme": {
 				"_base_color": [
@@ -496,7 +496,7 @@
 			"intro": "“浓雾弥漫之时，我走出了出租屋，在空虚混沌的城市里孑孓而行。我要去的地方名叫殡仪馆，这是它现在的名字，它过去的名字叫火葬场。我得到一个通知，让我早晨九点之前赶到殡仪馆，我的火化时间预约在九点半。”\n这是余华最新长篇小说《第七天》的开篇，给读者留下了足够大的悬念，一个走向殡仪馆、将被火化的人，在死亡之后还能留给读者什么呢？这次余华用荒诞的笔触和意象讲述了一个比《活着》更绝望、比《兄弟》更荒诞的故事，让读者体会到一种寒冬腊月被囚禁于积年冰川里的寒冷，一种剧烈拉锯式切肤的疼痛和虐心，一种茫茫荒野身心俱疲后无着无落的绝望。",
 			"is_released": true,
 			"is_show": false,
-			"min_sale_price": "",
+			"min_sale_price": "¥23.0",
 			"null_rating_reason": "",
 			"other_versions_count": 10,
 			"pages": [
@@ -513,7 +513,7 @@
 				"2013-6"
 			],
 			"rating": {
-				"count": 76015,
+				"count": 76018,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.1
@@ -604,7 +604,7 @@
 				"2012-11-1"
 			],
 			"rating": {
-				"count": 93281,
+				"count": 93284,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -697,7 +697,7 @@
 				"2019-4"
 			],
 			"rating": {
-				"count": 103129,
+				"count": 103134,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -788,7 +788,7 @@
 				"2012-8"
 			],
 			"rating": {
-				"count": 920104,
+				"count": 920125,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -968,7 +968,7 @@
 				"2020-6"
 			],
 			"rating": {
-				"count": 149080,
+				"count": 149085,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
