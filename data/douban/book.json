@@ -72,7 +72,7 @@
 				"2021-3"
 			],
 			"rating": {
-				"count": 70707,
+				"count": 70710,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -513,7 +513,7 @@
 				"2013-6"
 			],
 			"rating": {
-				"count": 76059,
+				"count": 76060,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.1
@@ -604,7 +604,7 @@
 				"2012-11-1"
 			],
 			"rating": {
-				"count": 93443,
+				"count": 93448,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -697,7 +697,7 @@
 				"2019-4"
 			],
 			"rating": {
-				"count": 103217,
+				"count": 103219,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -788,7 +788,7 @@
 				"2012-8"
 			],
 			"rating": {
-				"count": 920992,
+				"count": 921014,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -874,7 +874,7 @@
 				"2021-8"
 			],
 			"rating": {
-				"count": 16258,
+				"count": 16259,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -938,7 +938,7 @@
 			},
 			"controversy_reason": "",
 			"cover_url": "https://dou.img.lithub.cc/book/34998019.jpg",
-			"has_ebook": true,
+			"has_ebook": false,
 			"honor_infos": [
 				{
 					"kind": "book",
@@ -968,7 +968,7 @@
 				"2020-6"
 			],
 			"rating": {
-				"count": 149287,
+				"count": 149296,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -979,9 +979,7 @@
 			"type": "book",
 			"uri": "douban://douban.com/book/34998019",
 			"url": "https://book.douban.com/subject/34998019/",
-			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
-			],
+			"vendor_icons": [],
 			"vendor_original_price": "",
 			"vendor_sale_price": ""
 		},
