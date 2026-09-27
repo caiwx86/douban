@@ -72,7 +72,7 @@
 				"2021-3"
 			],
 			"rating": {
-				"count": 71251,
+				"count": 71255,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -158,7 +158,7 @@
 				"2016-8-2"
 			],
 			"rating": {
-				"count": 523,
+				"count": 524,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -335,7 +335,7 @@
 				"2018-7"
 			],
 			"rating": {
-				"count": 99726,
+				"count": 99727,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -422,7 +422,7 @@
 				"2021-6"
 			],
 			"rating": {
-				"count": 9046,
+				"count": 9047,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -587,7 +587,7 @@
 			"intro": "《在细雨中呼喊》是二十世纪九十年代的经典文本，是余华的第一部长篇力作。小说描述了一位江南少年的成长经历和心灵历程。《在细雨中呼喊 》的结构来自于对时间的感受，确切地说是对记忆中的时间的感受，叙述者 天马行空地在过去、现在和将来这三个时间维度里自由穿行，将忆记的 碎片 穿插、结集、拼嵌完整。",
 			"is_released": true,
 			"is_show": false,
-			"min_sale_price": "¥16.08",
+			"min_sale_price": "¥16.17",
 			"null_rating_reason": "",
 			"other_versions_count": 16,
 			"pages": [
@@ -604,7 +604,7 @@
 				"2012-11-1"
 			],
 			"rating": {
-				"count": 94332,
+				"count": 94340,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -697,7 +697,7 @@
 				"2019-4"
 			],
 			"rating": {
-				"count": 103855,
+				"count": 103862,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -758,7 +758,7 @@
 			},
 			"controversy_reason": "",
 			"cover_url": "https://dou.img.lithub.cc/book/4913064.jpg",
-			"has_ebook": false,
+			"has_ebook": true,
 			"honor_infos": [
 				{
 					"kind": "book",
@@ -788,7 +788,7 @@
 				"2012-8"
 			],
 			"rating": {
-				"count": 925975,
+				"count": 925998,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -799,7 +799,9 @@
 			"type": "book",
 			"uri": "douban://douban.com/book/4913064",
 			"url": "https://book.douban.com/subject/4913064/",
-			"vendor_icons": [],
+			"vendor_icons": [
+				"https://img3.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
 			"vendor_original_price": "",
 			"vendor_sale_price": ""
 		},
@@ -966,7 +968,7 @@
 				"2020-6"
 			],
 			"rating": {
-				"count": 150571,
+				"count": 150582,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
